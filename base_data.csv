@@ -1,0 +1,1215 @@
+ID,family,genus,species,taxa,max_lat,min_lat,mid_lat,lat_range,max_size,min_depth,max_depth,midpoint_depth,hab_type
+101,Semelidae,Abra,californica,Abra_californica,51,24,37.5,27,21,3480,3900,3690,fine sand
+102,Semelidae,Abra,palmeri,Abra_palmeri,31,-3.7,13.65,34.7,10,0,165,82.5,
+1106,Semelidae,Abra,profundorum,Abra_profundorum,45,31,38,14,26,1900,5600,3750,fine mud
+103,Semelidae,Abra,tepocana,Abra_tepocana,31.7,30.3,31,1.4,12,0,26,13,
+1512,Vesicomyidae,Abyssogena,novacula,Abyssogena_novacula,-10.02,-10.02,-10.02,0,277,5528,5528,5528,
+268,Arcidae,Acar,bailyi,Acar_bailyi,35.5,-1,17.25,36.5,10,0,5,,
+590,Arcidae,Acar,gradata,Acar_gradata,27.8,8.3,18.05,19.5,41,0,37,18.5,
+445,Arcidae,Acar,pusilla,Acar_pusilla,-1.3,-30,-15.65,28.7,12,0,,,
+591,Arcidae,Acar,rostae,Acar_rostae,28.9,-5.9,11.5,34.8,37,,,0,
+340,Limidae,Acesta (Acesta),mori,Acesta (Acesta)_mori,37.4,35.3,36.35,2.1,62,1265,1550,1407.5,
+341,Limidae,Acesta (Plicacesta),sphoni,Acesta (Plicacesta)_sphoni,33.4,33.3,33.35,0.1,115,460,750,605,
+723,Limidae,Acesta,agassizii,Acesta_agassizii,27.3,7.2,17.25,20.1,116,589,743,666,
+1439,Limidae,Acesta,patagonica,Acesta_patagonica,-29.9,-55,-42.45,25.1,88,15,821,418,hard
+494,Solemyidae,Acharax,johnsoni,Acharax_johnsoni,60,-12.5,23.75,72.5,150,100,5379,2739.5,
+481,Nuculidae,Acila,castrensis,Acila_castrensis,60.4,24.2,42.3,36.2,20,5,400,202.5,
+803,Cardiidae,Acrosterigma,pristipleura,Acrosterigma_pristipleura,26.1,-1.8,12.15,27.9,81,0,80,40,
+432,Mytilidae,Adipicola cf.,leticiae,Adipicola cf._leticiae,-27,-46.2,-36.6,19.2,20,104,104,104,
+764,Thyasiridae,Adontorhina,cyclia,Adontorhina_cyclia,60,7.8,33.9,52.2,3,12,3000,1506,
+1455,Thyasiridae,Adontorhina,pisum,Adontorhina_pisum,-42.3,-55,-48.65,12.7,2.5,25,168,96.5,
+961,Thyasiridae,Adontorhina,sphaericosa,Adontorhina_sphaericosa,55.3,37.8,46.55,17.5,1.6,95,3000,1547.5,
+498,Nuculanidae,Adrana,crenifera,Adrana_crenifera,20.9,-3.8,8.55,24.7,36,8,20,14,
+499,Nuculanidae,Adrana,exoptata,Adrana_exoptata,30.3,1,15.65,29.3,24,7,60,33.5,
+500,Nuculanidae,Adrana,penascoensis,Adrana_penascoensis,31.7,26.7,29.2,5,43,0,15,7.5,
+501,Nuculanidae,Adrana,sowerbyana,Adrana_sowerbyana,22.4,-4.1,9.15,26.5,107,22,26,24,
+310,Mytilidae,Adula,californiensis,Adula_californiensis,54,32.7,43.35,21.3,60,,,,hard
+544,Mytilinae,Adula,diegensis,Adula_diegensis,43.4,19.1,31.25,24.3,50,0,10,5,
+312,Mytilidae,Adula,gruneri,Adula_gruneri,43.4,28.2,35.8,15.2,113,0,5,,hard
+313,Mytilidae,Adula,schmidtii,Adula_schmidtii,52.9,51.5,52.2,1.4,45,15,20,17.5,
+545,Mytilinae,Adula,soleniformis,Adula_soleniformis,7.9,-5.1,1.4,13,40,0,110,55,
+882,Lasaeidae,Aligena,cokeri,Aligena_cokeri,31.4,-3.5,13.95,34.9,10,0,30,15,
+886,Lasaeidae,Aligena,muris,Aligena_muris,31,-4.1,13.45,35.1,14,90,133,111.5,
+883,Lasaeidae,Aligena,nucea,Aligena_nucea,31.4,-3.5,13.95,34.9,6,0,50,25,
+884,Lasaeidae,Aligena,peruviana,Aligena_peruviana,21.5,-5.1,8.2,26.6,12,0,,0,
+1464,Lasaeidae,Aligena,sechura,Aligena_sechura,-5.8,-11.8,-8.8,6,10,0,6,,
+885,Lasaeidae,Aligena,trigonalis,Aligena_trigonalis,33.6,20.7,27.15,12.9,10,0,68,34,
+1529,Veneridae,Ameghinomya,antiqua,Ameghinomya_antiqua,-12.1,-53.2,-32.65,41.1,93,0,65,,"sand, mud, pebbles, mussel community"
+1029,Cardiidae,Americardia,biangulata,Americardia_biangulata,34,-1.6,16.2,35.6,45,0,100,50,0 zone
+887,Lasaeidae,Amerycina,colpoica,Amerycina_colpoica,27.9,7.4,17.65,20.5,10,0,100,50,
+888,Lasaeidae,Amerycina,cultrata,Amerycina_cultrata,31.4,-1.3,15.05,32.7,14,5,100,52.5,
+889,Lasaeidae,Amerycina,huberi,Amerycina_huberi,27.9,-1.3,13.3,29.2,11,3,70,36.5,
+890,Lasaeidae,Amerycina,mikkelsenae,Amerycina_mikkelsenae,28,-5.5,11.25,33.5,3,0,40,20,
+193,Veneridae,Amiantis,callosa,Amiantis_callosa,34.4,24.6,29.5,9.8,130,0,10,5,Sand
+579,Modiolinae,Amygdalum,americanum,Amygdalum_americanum,27.9,-5.1,11.4,33,32,4,45,24.5,
+580,Modiolinae,Amygdalum,pallidulum,Amygdalum_pallidulum,41,27.9,34.45,13.1,30,40,400,220,
+324,Mytilidae,Amygdalum,politum,Amygdalum_politum,41,1.1,21.05,39.9,34,40,400,220,
+270,Arcidae,Anadara (Anadara),tuberculosa,Anadara (Anadara)_tuberculosa,33.7,-3.5,15.1,37.2,92,0,5,,0
+271,Arcidae,Anadara (Larkinia),multicostata,Anadara (Larkinia)_multicostata,34,-1,16.5,35,125,0,230,,0
+600,Arcidae,Anadara,adamsi,Anadara_adamsi,27.9,-2.2,12.85,30.1,30,8,54,31,
+601,Arcidae,Anadara,aequatorialis,Anadara_aequatorialis,30.3,-3.7,13.3,34,48,0,73,36.5,
+602,Arcidae,Anadara,biangulata,Anadara_biangulata,27.9,-3.7,12.1,31.6,68,10,70,40,
+603,Arcidae,Anadara,bifrons,Anadara_bifrons,29.8,-3.5,13.15,33.3,60,30,45,37.5,
+604,Arcidae,Anadara,cepoides,Anadara_cepoides,29.8,1,15.4,28.8,90,10,84,47,
+605,Arcidae,Anadara,concinna,Anadara_concinna,31,1.1,16.05,29.9,54,6,150,78,
+606,Arcidae,Anadara,emarginata,Anadara_emarginata,28.8,-5.9,11.45,34.7,51,0,80,40,
+607,Arcidae,Anadara,esmeralda,Anadara_esmeralda,27.9,-3.6,12.15,31.5,63,35,73,54,
+608,Arcidae,Anadara,formosa,Anadara_formosa,28.9,-5.1,11.9,34,121,10,100,55,
+609,Arcidae,Anadara,grandis,Anadara_grandis,27.9,-5.6,11.15,33.5,156,0,9,4.5,
+610,Arcidae,Anadara,hyphalopilema,Anadara_hyphalopilema,27.9,-3.1,12.4,31,83,60,90,75,
+611,Arcidae,Anadara,labiosa,Anadara_labiosa,23.2,-3.5,9.85,26.7,61,20,50,35,
+612,Arcidae,Anadara,mazatlantica,Anadara_mazatlantica,27.9,-4.1,11.9,32,87,7,220,113.5,
+613,Arcidae,Anadara,multicostata,Anadara_multicostata,34,-1,16.5,35,125,0,80,40,
+614,Arcidae,Anadara,nux,Anadara_nux,26.7,-5.6,10.55,32.3,24,4,73,38.5,
+615,Arcidae,Anadara,obesa,Anadara_obesa,27.9,-4.7,11.6,32.6,43,10,112,61,
+616,Arcidae,Anadara,perlabiata,Anadara_perlabiata,27.9,-4.7,11.6,32.6,50,0,82,41,
+617,Arcidae,Anadara,reinharti,Anadara_reinharti,31.3,-3.5,13.9,34.8,68,2,91,46.5,
+618,Arcidae,Anadara,similis,Anadara_similis,23.9,-3.6,10.15,27.5,66,0,,0,
+949,Mactridae,Anatina,cyprinus,Anatina_cyprinus,27.9,-2.2,12.85,30.1,57,15,100,57.5,
+731,Lucinidae,Anodontia,edentuloides,Anodontia_edentuloides,30.5,-1.2,14.65,31.7,52,9,165,87,
+377,Anomiidae,Anomia (Anomia),peruviana,Anomia (Anomia)_peruviana,36.6,-5.9,15.35,42.5,85,0,120,,0
+811,Cardiidae,Apiocardia,obovale,Apiocardia_obovale,24.6,-4.1,10.25,28.7,25,0,100,50,
+447,Arcidae,Arca,fernandezensis,Arca_fernandezensis,-33.7,-33.7,-33.7,0,40,37,73,55,
+592,Arcidae,Arca,mutabilis,Arca_mutabilis,31.4,-5.1,13.15,36.5,44,0,60,30,
+593,Arcidae,Arca,pacifica,Arca_pacifica,31.4,-5.1,13.15,36.5,128,0,137,68.5,
+594,Arcidae,Arca,truncata,Arca_truncata,9.9,-1,4.45,10.9,78,58,,29,
+917,Vesicomyidae,Archivesica,gigas,Archivesica_gigas,58.8,10,34.4,48.8,125,192,2050,1121,
+822,Chamidae,Arcinella,californica,Arcinella_californica,31.3,-3.6,13.85,34.9,74,10,77,43.5,
+278,Noetiidae,Arcopsis,solida,Arcopsis_solida,32.7,-9.1,11.8,41.8,15,5,5,5,0
+692,Chlamydinae,Argopecten,purpuratus,Argopecten_purpuratus,-5.1,-33.1,-19.1,28,159,0,95,47.5,
+357,Pectinidae,Argopecten,ventricosus,Argopecten_ventricosus,34.4,-5.8,14.3,40.2,95,1,55,28,Soft (mud and sand)
+965,Astaridae,Astarte,arctica,Astarte_arctica,71,48.4,59.7,22.6,50,20,300,160,
+966,Astaridae,Astarte,borealis,Astarte_borealis,71.4,54.5,62.95,16.9,55,0,50,25,
+967,Astaridae,Astarte,compacta,Astarte_compacta,60.8,47.5,54.15,13.3,30,10,200,105,
+968,Astaridae,Astarte,elliptica,Astarte_elliptica,71.2,47.5,59.35,23.7,35,20,250,135,
+969,Astaridae,Astarte,esquimalti,Astarte_esquimalti,71,48,59.5,23,23,50,200,125,
+970,Astaridae,Astarte,montagui,Astarte_montagui,71.4,64.3,67.85,7.1,45,10,455,232.5,
+971,Astaridae,Astarte,vernicosa,Astarte_vernicosa,76.4,71.4,73.9,5,20,20,250,135,
+1184,Thraciidae,Asthenothaerus,diegensis,Asthenothaerus_diegensis,33.7,24.6,29.15,9.1,11,0,119,59.5,mud
+650,Pinnidae,Atrina,maura,Atrina_maura,31.4,-3.7,13.85,35.1,175,0,4,2,
+651,Pinnidae,Atrina,oldroydii,Atrina_oldroydii,34.1,-23.5,5.3,57.6,360,2,160,81,
+652,Pinnidae,Atrina,texta,Atrina_texta,34.5,-0.8,16.85,35.3,265,128,150,139,
+653,Pinnidae,Atrina,tuberculosa,Atrina_tuberculosa,31.5,-1,15.25,32.5,290,0,,0,
+426,Mytilidae,Aulacomya,atra,Aulacomya_atra,-6.8,-27.5,-17.15,20.7,154,0,98,,
+1513,Vesicomyidae,Austrogena,nerudai,Austrogena_nerudai,-7.8,-33.4,-20.6,25.6,40,339,800,569.5,organic-rich mud in the oxygen minimum zone
+1199,Cuspidariidae,Austroneaera,semipellucida,Austroneaera_semipellucida,55,45.6,50.3,9.4,5,155,823,489,
+245,Neilonellidae,Austrotindaria,gibbsii,Austrotindaria_gibbsii,51.4,45.5,48.45,5.9,13,1440,2189,1814.5,
+624,Glycymerididae,Axinactis,delesserti,Axinactis_delesserti,24.6,9,16.8,15.6,45,8,33,20.5,
+452,Glycymerididae,Axinactis,inaequalis,Axinactis_inaequalis,27.2,-6.9,10.15,34.1,46,0,35,,
+962,Thyasiridae,Axinodon,redondoesis,Axinodon_redondoesis,48.3,33.8,41.05,14.5,3,120,330,225,
+766,Thyasiridae,Axinopsida,serricata,Axinopsida_serricata,71.4,7.8,39.6,63.6,8,0,1250,625,
+1337,Teredinidae,Bankia,bipennata,Bankia_bipennata,-2.2,-2.2,-2.2,0,13,0,0,,Wood
+1338,Teredinidae,Bankia,carinata,Bankia_carinata,32.7,-2.7,15,35.4,7,0,0,,Wood
+1339,Teredinidae,Bankia,cieba,Bankia_cieba,9,9,9,0,7,0,0,,Wood
+1340,Teredinidae,Bankia,destructa,Bankia_destructa,23,-2.7,10.15,25.7,8,0,0,,Wood
+1341,Teredinidae,Bankia,fimbriatula,Bankia_fimbriatula,9,9,9,0,7,0,0,,Wood
+1342,Teredinidae,Bankia,gouldi,Bankia_gouldi,23,-2.7,10.15,25.7,9,0,0,,Wood
+1573,Teredinidae,Bankia,martensi,Bankia_martensi,-32.7,-54.8,-43.75,22.1,8,0,95,,
+1343,Teredinidae,Bankia,orcutti,Bankia_orcutti,27.9,-2.7,12.6,30.6,3,0,0,,Wood
+1344,Teredinidae,Bankia,zeteki,Bankia_zeteki,22.6,-2.7,9.95,25.3,10,0,0,,Wood
+595,Arcidae,Barbatia,alternata,Barbatia_alternata,31.4,-0.9,15.25,32.3,41,10,100,55,
+596,Arcidae,Barbatia,illota,Barbatia_illota,31.4,-4.5,13.45,35.9,51,0,73,36.5,
+597,Arcidae,Barbatia,lurida,Barbatia_lurida,31.4,-4,13.7,35.4,51,0,30,15,
+269,Arcidae,Barbatia,reeveana,Barbatia_reeveana,33.7,-5.1,14.3,38.8,100,0,120,,0
+1149,Pholadidae,Barnea,subtruncata,Barnea_subtruncata,44.6,-29,7.8,73.6,83,0,30,15,mud and soft rock
+843,Basterotiidae,Basterotia,californica,Basterotia_californica,31.4,19.2,25.3,12.2,13,0,100,50,
+844,Basterotiidae,Basterotia,obliqua,Basterotia_obliqua,27.9,-0.6,13.65,28.5,11,7,60,33.5,
+845,Basterotiidae,Basterotia,panamica,Basterotia_panamica,31.4,-2.2,14.6,33.6,11,0,119,59.5,
+846,Basterotiidae,Basterotia,peninsularis,Basterotia_peninsularis,31.4,-2.2,14.6,33.6,19,0,46,23,
+847,Basterotiidae,Basterotia,quadrata,Basterotia_quadrata,31.4,-2.2,14.6,33.6,14,6,119,62.5,
+848,Basterotiidae,Basterotina,rectangularis,Basterotina_rectangularis,30.3,-1.6,14.35,31.9,11,9,119,64,
+272,Arcidae,Bathyarca,corpulenta,Bathyarca_corpulenta,34.8,14.7,24.75,20.1,35,2000,4900,3450,
+273,Arcidae,Bathyarca,frielei,Bathyarca_frielei,71,40,55.5,31,9,55,5180,2617.5,Abyssal Plain
+274,Arcidae,Bathyarca,glacialis,Bathyarca_glacialis,71,71,71,0,,23,455,239,
+450,Arcidae,Bathyarca,imitata,Bathyarca_imitata,48.6,-32.2,8.2,80.8,10,1463,4000,2731.5,abyssal depths
+621,Arcidae,Bathyarca,nucleator,Bathyarca_nucleator,48.6,5.1,26.85,43.5,10,1463,4000,2731.5,
+619,Arcidae,Bathyarca,tuberculosa,Bathyarca_tuberculosa,28.8,-5.1,11.85,33.9,97,0,20,10,
+560,Bathymodiolinae,Bathymodiolus,abyssicola,Bathymodiolus_abyssicola,32.4,5.8,19.1,26.6,23,3270,3950,3610,
+433,Mytilidae,Bathymodiolus,antarcticus,Bathymodiolus_antarcticus,0.8,-38,-18.6,38.8,41,2216,2336,2276,hydrothermal vents
+559,Bathymodiolinae,Bathymodiolus,thermophilus,Bathymodiolus_thermophilus,9,-0.8,4.1,9.8,152,1000,2600,1800,
+1200,Cuspidariidae,Bathyneaera,disa,Bathyneaera_disa,34.8,32.4,33.6,2.4,40,3700,6850,5275,
+1201,Cuspidariidae,Bathyneaera,tillamookensis,Bathyneaera_tillamookensis,50.9,45.5,48.2,5.4,20,439,2850,1644.5,sand and mud
+226,Nuculanidae,Bathyspinula (Bathyspinula),prolata,Bathyspinula (Bathyspinula)_prolata,49,30,39.5,19,5,3585,8450,6017.5,Trench
+411,Bathyspinulidae,Bathyspinula,calcar,Bathyspinula_calcar,44.9,-8.5,18.2,53.4,18,4000,6100,5050,
+410,Bathyspinulidae,Bathyspinula,calcarella,Bathyspinula_calcarella,45,-7,19,52,17,4200,7500,5850,
+412,Bathyspinulidae,Bathyspinula,latirostris,Bathyspinula_latirostris,-23.8,-23.8,-23.8,0,5,3960,7350,5655,
+871,Galeommatidae,Bellascintilla,parmaleeana,Bellascintilla_parmaleeana,22.9,-1.6,10.65,24.5,5,0,40,20,
+276,Arcidae,Bentharca,asperula,Bentharca_asperula,44.9,-8,18.45,52.9,12,3700,4900,4300,
+292,Mytilidae,Benthomodiolus,abyssicola,Benthomodiolus_abyssicola,32.4,5.8,19.1,26.6,23,3270,3950,3610,
+1019,Neoleptonidae,Bernardina,bakeri,Bernardina_bakeri,36.6,27.9,32.25,8.7,3,0,46,23,rubble and rocks
+1265,Neoleptonidae,Bernardina,margarita,Bernardina_margarita,29.2,18.3,23.75,10.9,2.4,0,21,10.5,0
+571,Lithophaginae,Botula,cylista,Botula_cylista,23.2,-3.9,9.65,27.1,28,0,10,5,
+546,Mytilinae,Brachidontes,adamsianus,Brachidontes_adamsianus,34,-6.5,13.75,40.5,25,0,,0,
+547,Mytilinae,Brachidontes,esmeraldensis,Brachidontes_esmeraldensis,1,-2.2,-0.6,3.2,17,0,,0,
+434,Mytilidae,Brachidontes,granulatus,Brachidontes_granulatus,-6.5,-41.9,-24.2,35.4,30,0,40,,
+548,Mytilinae,Brachidontes,playasensis,Brachidontes_playasensis,-2.7,-3.5,-3.1,0.8,21,0,5,2.5,
+549,Mytilinae,Brachidontes,puntarenensis,Brachidontes_puntarenensis,10,-5.1,2.45,15.1,20,0,,0,
+550,Mytilinae,Brachidontes,semilaevis,Brachidontes_semilaevis,31.3,-5.1,13.1,36.4,13,0,40,20,
+157,Veneridae,Callithaca,tenerrima,Callithaca_tenerrima,57.1,27.6,42.35,29.5,125,0,73,36.5,
+194,Veneridae,Callocardia,catharia,Callocardia_catharia,29.5,-12.5,8.5,42,67,13,80,46.5,
+918,Vesicomyidae,Calyptogena,costaricana,Calyptogena_costaricana,36.6,10,23.3,26.6,52,2200,2263,2231.5,
+920,Vesicomyidae,Calyptogena,diagonalis,Calyptogena_diagonalis,44.7,9.7,27.2,35,250,2025,2600,2312.5,
+921,Vesicomyidae,Calyptogena,extenta,Calyptogena_extenta,56,9.7,32.85,46.3,246,3000,4445,3722.5,
+1514,Vesicomyidae,Calyptogena,gallardoi,Calyptogena_gallardoi,-36.4,-36.8,-36.6,0.4,45,600,760,680,
+922,Vesicomyidae,Calyptogena,lepta,Calyptogena_lepta,45.5,27.2,36.35,18.3,65,850,2020,1435,
+923,Vesicomyidae,Calyptogena,magnifica,Calyptogena_magnifica,20.9,0.8,10.85,20.1,263,2450,2680,2565,
+1202,Cuspidariidae,Cardiomya,balboae,Cardiomya_balboae,32.5,-1,15.75,33.5,10,45,170,107.5,
+1203,Cuspidariidae,Cardiomya,behringensis,Cardiomya_behringensis,60.9,56.5,58.7,4.4,15,20,80,50,
+1204,Cuspidariidae,Cardiomya,pectinata,Cardiomya_pectinata,60.9,-1.3,29.8,62.2,40,5,1000,502.5,sand and mud
+1205,Cuspidariidae,Cardiomya,planetica,Cardiomya_planetica,55.6,-0.6,27.5,56.2,30,25,3000,1512.5,mud
+772,Carditidae,Cardita,aviculina,Cardita_aviculina,7.2,5.6,6.4,1.6,8,0,80,40,
+773,Carditidae,Carditamera,affinis,Carditamera_affinis,31.2,-5.1,13.05,36.3,110,0,90,45,
+774,Carditidae,Carditamera,radiata,Carditamera_radiata,24.6,-4.7,9.95,29.3,58,0,24,12,
+792,Condylocardiidae,Carditella,galapagana,Carditella_galapagana,4,-0.5,1.75,4.5,3,29,228,128.5,
+793,Condylocardiidae,Carditella,marieta,Carditella_marieta,21.7,18.3,20,3.4,6,7,60,33.5,
+1479,Condylocardiidae,Carditella,naviformis,Carditella_naviformis,-33,-55.8,-44.4,22.8,7,0,137,,
+1480,Condylocardiidae,Carditella,semen,Carditella_semen,-6.9,-26.7,-16.8,19.8,12,0,82,,
+1481,Condylocardiidae,Carditella,tegulata,Carditella_tegulata,-33.1,-55,-44.05,21.9,7,10,50,30,
+775,Carditidae,Cardites,crassicostatus,Cardites_crassicostatus,31.4,-3.5,13.95,34.9,76,0,55,27.5,
+776,Carditidae,Cardites,grayi,Cardites_grayi,23.4,7.7,15.55,15.7,51,0,23,11.5,
+777,Carditidae,Cardites,laticostatus,Cardites_laticostatus,28.8,-4.1,12.35,32.9,52,0,27,13.5,
+1482,Condylocardiidae,Carditopsis,flabellum,Carditopsis_flabellum,-33.1,-55,-44.05,21.9,6,0,292,,
+1287,Corbulidae,Caryocorbula,amethystina,Caryocorbula_amethystina,24.2,-2.6,10.8,26.8,31,0,82,41,Sand bottoms
+1288,Corbulidae,Caryocorbula,biradiata,Caryocorbula_biradiata,31,-4.2,13.4,35.2,21,0,59,29.5,Mud and sand
+1289,Corbulidae,Caryocorbula,colimensis,Caryocorbula_colimensis,21.7,15.8,18.75,5.9,14,29,104,66.5,Mud bottoms
+1290,Corbulidae,Caryocorbula,ira,Caryocorbula_ira,29.9,-12.1,8.9,42,14,15,388,201.5,Mud and sand
+1291,Corbulidae,Caryocorbula,luteola,Caryocorbula_luteola,36.7,33.7,35.2,3,10,0,80,40,Rubble
+1292,Corbulidae,Caryocorbula,marmorata,Caryocorbula_marmorata,31.4,-12.1,9.65,43.5,8,0,137,68.5,Rubble
+1293,Corbulidae,Caryocorbula,nasuta,Caryocorbula_nasuta,31.4,-12.1,9.65,,18,0,229,114.5,"Mud, sand and rubble"
+1294,Corbulidae,Caryocorbula,otra,Caryocorbula_otra,27.9,-2.2,12.85,30.1,26,0,55,27.5,Mud and sand
+1295,Corbulidae,Caryocorbula,ovulata,Caryocorbula_ovulata,10.9,-4.3,3.3,15.2,29,0,55,27.5,Sand
+1296,Corbulidae,Caryocorbula,porcella,Caryocorbula_porcella,35.4,24.6,30,10.8,10,27,210,118.5,Mud and sand
+713,Propeamussiidae,Catillopecten,graui,Catillopecten_graui,5.8,78.9,,,18,3279,3670,3474.5,
+714,Propeamussiidae,Catillopecten,vulcani,Catillopecten_vulcani,13,9,11,4,12,2550,2650,2600,
+732,Lucinidae,Cavilinga,lampra,Cavilinga_lampra,31,6,18.5,25,25,0,70,35,
+733,Lucinidae,Cavilinga,lingualis,Cavilinga_lingualis,31,-3.1,13.95,34.1,18,0,212,106,
+734,Lucinidae,Cavilinga,prolongata,Cavilinga_prolongata,29.1,23.2,26.15,5.9,8,0,170,85,
+892,Lasaeidae,Ceratobornia,chiclaya,Ceratobornia_chiclaya,31,-9.1,10.95,40.1,9,0,8,4,
+1219,Poromyidae,Cetomya,malespinae,Cetomya_malespinae,57.1,45,51.05,12.1,15,2100,2900,2500,Abyssal plain
+1591,Poromyidae,Cetomya,perla,Cetomya_perla,24.5,-32.2,-3.85,56.7,20,1900,3600,2750,
+1153,Pholadidae,Chacaia,ovoidea,Chacaia_ovoidea,37.9,27.7,32.8,10.2,120,,,,0
+823,Chamidae,Chama,arcana,Chama_arcana,37.1,9.7,23.4,27.4,65,0,80,40,
+824,Chamidae,Chama,buddiana,Chama_buddiana,31.4,-0.9,15.25,32.3,125,0,90,45,
+835,Chamidae,Chama,clarionensis,Chama_clarionensis,18.4,-0.8,8.8,19.2,23,27,140,83.5,
+825,Chamidae,Chama,coralloides,Chama_coralloides,29,-8.6,10.2,37.6,85,0,25,12.5,
+836,Chamidae,Chama,corrugata,Chama_corrugata,23.5,-5.9,8.8,29.4,87,0,5,2.5,
+826,Chamidae,Chama,echinata,Chama_echinata,31.4,-3.9,13.75,35.3,38,0,90,45,
+837,Chamidae,Chama,exogyra,Chama_exogyra,38.3,22.9,30.6,15.4,65,0,75,37.5,
+827,Chamidae,Chama,frondosa,Chama_frondosa,31.3,-1.6,14.85,32.9,90,0,35,17.5,
+838,Chamidae,Chama,granti,Chama_granti,52.6,28.2,40.4,24.4,27,46,256,151,
+828,Chamidae,Chama,hicksi,Chama_hicksi,29,16,22.5,13,90,12,75,43.5,
+839,Chamidae,Chama,inermis,Chama_inermis,31.4,7.2,19.3,24.2,79,0,10,5,
+840,Chamidae,Chama,janus,Chama_janus,31.3,-1,15.15,32.3,55,0,100,50,
+841,Chamidae,Chama,panamensis,Chama_panamensis,19.1,8.3,13.7,10.8,52,0,35,17.5,
+829,Chamidae,Chama,pellucida,Chama_pellucida,-5.3,-33,-19.15,27.7,70,0,30,15,
+842,Chamidae,Chama,saavedrai,Chama_saavedrai,28.8,-3.6,12.6,32.4,65,0,55,27.5,
+832,Chamidae,Chama,sordida,Chama_sordida,29.6,-0.9,14.35,30.5,32,30,90,60,
+833,Chamidae,Chama,tinctoria,Chama_tinctoria,21.4,7.7,14.55,13.7,37,15,92,53.5,
+834,Chamidae,Chama,venosa,Chama_venosa,29.9,-5.1,12.4,35,57,0,20,,
+768,Thyasiridae,Channelaxinus,oliveri,Channelaxinus_oliveri,27.9,10.9,19.4,17,13,9,120,64.5,
+158,Veneridae,Chione,californiensis,Chione_californiensis,37.7,16.9,27.3,20.8,82,0,90,45,Sandy mudflats
+159,Veneridae,Chione,compta,Chione_compta,27.9,-5.9,11,33.8,50,18,90,54,
+1036,Veneridae,Chione,fluctifraga,Chione_fluctifraga,34.4,27.8,31.1,6.6,86,0,25,12.5,mud and sand flats
+160,Veneridae,Chione,guatulcoensis,Chione_guatulcoensis,27.9,-1,13.45,28.9,24,0,34,17,
+161,Veneridae,Chione,subimbricata,Chione_subimbricata,27.9,-7.7,10.1,35.6,49,0,15,7.5,
+162,Veneridae,Chione,tumens,Chione_tumens,31.4,22.9,27.15,8.5,47,0,20,10,
+163,Veneridae,Chione,undatella,Chione_undatella,34.4,-5.1,14.65,39.5,66,0,90,45,Sand and mudflats
+165,Veneridae,Chioneryx,squamosa,Chioneryx_squamosa,31.4,-5.9,12.75,37.3,11,0,90,45,
+164,Veneridae,Chionista,fluctifraga,Chionista_fluctifraga,34.4,31.3,32.85,3.1,87,0,25,12.5,
+166,Veneridae,Chionopsis,amathusia,Chionopsis_amathusia,27.9,-4.1,11.9,32,74,0,73,36.5,
+167,Veneridae,Chionopsis,crenifera,Chionopsis_crenifera,-2.1,-5.1,-3.6,3,37,,,,
+168,Veneridae,Chionopsis,gnidia,Chionopsis_gnidia,31.4,-5.1,13.15,36.5,120,0,33,16.5,
+169,Veneridae,Chionopsis,lilacina,Chionopsis_lilacina,30.3,-2.7,13.8,33,71,0,30,15,
+170,Veneridae,Chionopsis,ornatissima,Chionopsis_ornatissima,7.5,-0.4,3.55,7.9,58,13,51,32,
+171,Veneridae,Chionopsis,pulicaria,Chionopsis_pulicaria,31.7,-2.7,14.5,34.4,62,0,20,10,
+989,Galeommatidae,Chlamydoconcha,orcutti,Chlamydoconcha_orcutti,38.4,27.2,32.8,11.2,10,0,40,20,0 zone
+353,Pectinidae,Chlamys,albida,Chlamys_albida,70.6,52.1,61.35,18.5,65,100,200,150,
+354,Pectinidae,Chlamys,behringiana,Chlamys_behringiana,71.4,52.6,62,18.8,95,25,150,87.5,
+355,Pectinidae,Chlamys,hastata,Chlamys_hastata,59.5,32.7,46.1,26.8,80,0,160,,"Soft (usually on muddy substrata, 0) Hard (individuals with developed spines from hard substrata and usually covered with sponge)"
+356,Pectinidae,Chlamys,rubida,Chlamys_rubida,59.5,32.7,46.1,26.8,71,1,200,100.5,
+1269,Petricolidae,Choristodon,robustus,Choristodon_robustus,31.3,-5.1,13.1,36.4,43,0,55,27.5,0
+427,Mytilidae,Choromytilus,chorus,Choromytilus_chorus,-7.4,-55.5,-31.45,48.1,300,0,20,,
+551,Mytilinae,Choromytilus,palliopunctatus,Choromytilus_palliopunctatus,28.8,7.6,18.2,21.2,92,0,20,10,
+352,Pectinidae,Ciclopecten,neoceanicus,Ciclopecten_neoceanicus,45,-8.1,18.45,53.1,,3500,4100,3800,Soft (byssate on sandy mud)
+1251,Veneridae,Clementia,solida,Clementia_solida,28,0.1,14.05,27.9,81,,,,
+246,Neilonellidae,Clencharia,abyssicola,Clencharia_abyssicola,44.9,-22,11.45,66.9,7,3751,4882,4316.5,Abyssal Plain
+1369,Pandoridae,Clidiophora,claviculata,Clidiophora_claviculata,31,23.2,27.1,7.8,45,15,60,37.5,
+1370,Pandoridae,Clidiophora,cornuta,Clidiophora_cornuta,31,27.8,29.4,3.2,36,0,70,35,
+1371,Pandoridae,Clidiophora,dorsorectus,Clidiophora_dorsorectus,31.3,24.7,28,6.6,34,20,90,55,
+1024,Cardiidae,Clinocardium,blandum,Clinocardium_blandum,60.8,38.7,49.75,22.1,50,20,80,50,
+1025,Cardiidae,Clinocardium,californiense,Clinocardium_californiense,69,51.5,60.25,17.5,75,10,100,55,
+1023,Cardiidae,Clinocardium,ciliatum,Clinocardium_ciliatum,71,48.9,59.95,22.1,70,10,50,30,
+1022,Cardiidae,Clinocardium,nuttallii,Clinocardium_nuttallii,63.1,32.7,47.9,30.4,140,0,180,90,mud and sand
+1372,Pandoridae,Coania,rhypis,Coania_rhypis,13.4,13.4,13.4,0,25,0,80,40,
+735,Lucinidae,Codakia,distinguenda,Codakia_distinguenda,31.5,-3.6,13.95,35.1,150,0,50,25,
+1044,Veneridae,Compsomyax,subdiaphana,Compsomyax_subdiaphana,60.8,30.3,45.55,30.5,85,2,500,251,soft mud
+956,Thyasiridae,Conchocele,bisecta,Conchocele_bisecta,57,40.8,48.9,16.2,110,50,750,400,
+769,Thyasiridae,Conchocele,excavata,Conchocele_excavata,48.3,24.9,36.6,23.4,22,800,2520,1660,
+784,Condylocardiidae,Condylocardia,digueti,Condylocardia_digueti,29.1,-2.3,13.4,31.4,2,0,97,48.5,
+785,Condylocardiidae,Condylocardia,elongata,Condylocardia_elongata,18.8,-1.3,8.75,20.1,2,1,274,137.5,
+786,Condylocardiidae,Condylocardia,fernandina,Condylocardia_fernandina,1.7,-1.4,0.15,3.1,2,0,110,55,
+787,Condylocardiidae,Condylocardia,geigeri,Condylocardia_geigeri,-0.2,-1.3,-0.75,1.1,2,9,124,66.5,
+788,Condylocardiidae,Condylocardia,hippopus,Condylocardia_hippopus,11.1,0.3,5.7,10.8,2,3,99,51,
+789,Condylocardiidae,Condylocardia,kaiserae,Condylocardia_kaiserae,18.8,-1.4,8.7,20.2,3,12,274,143,
+790,Condylocardiidae,Condylocardia,koolsae,Condylocardia_koolsae,1.7,1.4,1.55,0.3,2,17,274,145.5,
+791,Condylocardiidae,Condylocardia,sparsa,Condylocardia_sparsa,13.2,9.4,11.3,3.8,2,0,35,17.5,
+1061,Petricolidae,Cooperella,subdiaphana,Cooperella_subdiaphana,49.7,7.4,28.55,42.3,20,10,100,55,mudflats and soft sediment
+1297,Corbulidae,Corbula,specoisa,Corbula_specoisa,31,6,18.5,25,21,0,125,62.5,"Sand, gravel and rubble"
+694,Chlamydinae,Crassadoma,gigantea,Crassadoma_gigantea,60.2,22.9,41.55,37.3,195,0,80,40,
+796,Crassatellinae,Crassinella,adamsi,Crassinella_adamsi,23.2,-2.8,10.2,26,4,9,100,54.5,
+797,Crassatellinae,Crassinella,coxa,Crassinella_coxa,29.5,-1,14.25,30.5,3,36,160,98,
+798,Crassatellinae,Crassinella,ecuadoriana,Crassinella_ecuadoriana,29.5,-2.4,13.55,31.9,5,0,55,27.5,
+799,Crassatellinae,Crassinella,nuculiformis,Crassinella_nuculiformis,31.4,-2.8,14.3,34.2,6,0,62,31,
+800,Crassatellinae,Crassinella,pacifica,Crassinella_pacifica,33.9,-5.6,14.15,39.5,11,0,158,79,
+801,Crassatellinae,Crassinella,skoglundae,Crassinella_skoglundae,20.9,10.3,15.6,10.6,7,10,28,19,
+802,Crassatellinae,Crassinella,varians,Crassinella_varians,31.4,-2.8,14.3,34.2,3,0,113,56.5,
+344,Ostreidae,Crassostrea,ariakensis,Crassostrea_ariakensis,47.5,44.6,46.05,2.9,200,,,,
+660,Ostreidae,Crassostrea,columbiensis,Crassostrea_columbiensis,28.4,-5,11.7,33.4,80,0,,0,
+661,Ostreidae,Crassostrea,corteziensis,Crassostrea_corteziensis,28.8,9,18.9,19.8,250,0,,0,
+662,Ostreidae,Crassostrea,gigas,Crassostrea_gigas,60.8,25.1,42.95,35.7,450,0,,0,
+346,Ostreidae,Crassostrea,sikamea,Crassostrea_sikamea,47.5,38.3,42.9,9.2,60,,,,
+347,Ostreidae,Crassostrea,virginica,Crassostrea_virginica,49,38.3,43.65,10.7,200,,,,0
+293,Mytilidae,Crenella,decussata,Crenella_decussata,71,-3.5,33.75,74.5,10,0,200,,"0, arctic and circumboreal"
+1134,Mydae,Cryptomya,californica,Cryptomya_californica,59.5,-5.8,26.85,65.3,37,0,80,40,
+1305,Pholadinae,Crytopleura,crucigera,Crytopleura_crucigera,27.9,-3.5,12.2,31.4,44,0,20,10,Soft rock
+737,Lucinidae,Ctena,chiquita,Ctena_chiquita,31,-1.6,14.7,32.6,14,0,155,77.5,
+738,Lucinidae,Ctena,clarionensis,Ctena_clarionensis,29.9,-2.7,13.6,32.6,17,0,194,97,
+740,Lucinidae,Ctena,galapagana,Ctena_galapagana,18.8,-1,8.9,19.8,31,0,59,29.5,
+741,Lucinidae,Ctena,mexicana,Ctena_mexicana,31.3,-4.1,13.6,35.4,21,0,100,50,
+812,Cardiidae,Ctenocardia,biangulata,Ctenocardia_biangulata,31.4,-2.2,14.6,33.6,42,0,200,100,
+813,Cardiidae,Ctenocardia,planicostata,Ctenocardia_planicostata,24.6,-5.1,9.75,29.7,56,0,24,12,
+1107,Semelidae,Cumingia,californica,Cumingia_californica,41.8,26.3,34.05,15.5,40,0,65,32.5,boeholes and crevices
+105,Semelidae,Cumingia,lamellosa,Cumingia_lamellosa,31.7,-5.1,13.3,36.8,24,0,24,12,
+1497,Semelidae,Cumingia,mutica,Cumingia_mutica,-13.8,-49.2,-31.5,35.4,38,0,18,,"sandy mud, gravel and coarse sand and clay"
+106,Semelidae,Cumingia,pacifica,Cumingia_pacifica,31.7,27.9,29.8,3.8,16,0,0,0,Mudflats
+1193,Cuspidariidae,Cuspidaria,apodema,Cuspidaria_apodema,57.1,43,50.05,14.1,20,1000,2900,1950,fine mud
+1196,Cuspidariidae,Cuspidaria,glacialis,Cuspidaria_glacialis,71,30,50.5,41,40,23,3020,1521.5,fine mud
+1581,Cuspidariidae,Cuspidaria,infelix,Cuspidaria_infelix,-42.1,-42.1,-42.1,0,9,252,353,302.5,
+1579,Cuspidariidae,Cuspidaria,panamensis,Cuspidaria_panamensis,-6.7,-29.9,-18.3,23.2,41,100,935,517.5,
+1197,Cuspidariidae,Cuspidaria,parapodema,Cuspidaria_parapodema,35.2,11,23.1,24.2,17,50,320,185,mud
+1580,Cuspidariidae,Cuspidaria,patagonica,Cuspidaria_patagonica,-0.9,-53.8,-27.35,52.9,55,256,730,493,
+1198,Cuspidariidae,Cuspidaria,variola,Cuspidaria_variola,48.4,44.7,46.55,3.7,28,2950,3585,3267.5,mud
+1508,Cyamiidae,Cyamiocardium,dahli,Cyamiocardium_dahli,-41.5,-54.7,-48.1,13.2,4.7,5,35,20,
+1509,Cyamiidae,Cyamiomactra,chilensis,Cyamiomactra_chilensis,-33,-33,-33,0,2.6,20,20,20,
+1185,Thraciidae,Cyathodonta,pedroana,Cyathodonta_pedroana,36.7,24.6,30.65,12.1,38,9,114,61.5,mud
+1252,Veneridae,Cyclinella,jadisi,Cyclinella_jadisi,31.4,-2.7,14.35,34.1,70,0,31,15.5,Sand and mud
+1253,Veneridae,Cyclinella,producta,Cyclinella_producta,31.4,-3.8,13.8,35.2,43,0,,,0 mudflats
+1550,Veneridae,Cyclinella,subquadrata,Cyclinella_subquadrata,31.7,-13.7,9,45.4,81,0,75,,
+974,Carditidae,Cyclocardia,bailyi,Cyclocardia_bailyi,36.6,27.7,32.15,8.9,14,30,275,152.5,
+975,Carditidae,Cyclocardia,barbarensis,Cyclocardia_barbarensis,34,33.5,33.75,0.5,19,350,2211,1280.5,
+778,Carditidae,Cyclocardia,beebei,Cyclocardia_beebei,24.6,7.3,15.95,17.3,20,23,125,74,
+1476,Carditidae,Cyclocardia,compressa,Cyclocardia_compressa,-33,-54,-43.5,21,15,12,272,142,
+976,Carditidae,Cyclocardia,crebricostata,Cyclocardia_crebricostata,71.4,57,64.2,14.4,25,10,260,135,
+977,Carditidae,Cyclocardia,gouldii,Cyclocardia_gouldii,48.4,32.7,40.55,15.7,24,155,1500,827.5,
+978,Carditidae,Cyclocardia,incisa,Cyclocardia_incisa,59.3,58,58.65,1.3,12,1,135,68,
+979,Carditidae,Cyclocardia,ovata,Cyclocardia_ovata,64.3,51.5,57.9,12.8,26,20,150,85,
+1477,Carditidae,Cyclocardia,spurca,Cyclocardia_spurca,-5.1,-20.2,-12.65,15.1,30,0,111,,
+980,Carditidae,Cyclocardia,umnaka,Cyclocardia_umnaka,53.6,53.3,53.45,0.3,11,,,,
+1478,Carditidae,Cyclocardia,velutina,Cyclocardia_velutina,-41.5,-55,-48.25,13.5,19,15,252,133.5,
+779,Carditidae,Cyclocardia,ventricosa,Cyclocardia_ventricosa,60.8,27.7,44.25,33.1,27,20,260,140,
+706,Propeamussiidae,Cyclopecten,acutus,Cyclopecten_acutus,6.8,-3,1.9,9.8,4,59,137,98,
+365,Propeamussiidae,Cyclopecten,barbarensis,Cyclopecten_barbarensis,33.5,33.3,33.4,0.2,4,50,55,52.5,
+366,Propeamussiidae,Cyclopecten,benthalis,Cyclopecten_benthalis,33.5,33.5,33.5,0,8,896,896,896,
+367,Propeamussiidae,Cyclopecten,bistriatus,Cyclopecten_bistriatus,45.8,22.9,34.35,22.9,8,900,2205,1552.5,"Soft (fine mud, associated with silicious sponges)"
+368,Propeamussiidae,Cyclopecten,carlottensis,Cyclopecten_carlottensis,53.7,53,53.35,0.7,12,1450,1650,1550,
+369,Propeamussiidae,Cyclopecten,catalinensis,Cyclopecten_catalinensis,33.9,28,30.95,5.9,8,30,350,190,"Soft (sandy substrata, bysally attached usually)"
+370,Propeamussiidae,Cyclopecten,davidsoni,Cyclopecten_davidsoni,54.3,45.9,50.1,8.4,15,146,650,398,Hard (broken shell or rock debris)
+710,Propeamussiidae,Cyclopecten,exquisitus,Cyclopecten_exquisitus,29,-12.1,8.45,41.1,6,22,274,148,
+371,Propeamussiidae,Cyclopecten,greenlandicus,Cyclopecten_greenlandicus,72,54,63,18,35,19,2560,1289.5,panarctic
+372,Propeamussiidae,Cyclopecten,incongruus,Cyclopecten_incongruus,48.1,29,38.55,19.1,15,1250,1540,1395,Soft (sandy mud)
+373,Propeamussiidae,Cyclopecten,knudseni,Cyclopecten_knudseni,50.3,44.6,47.45,5.7,25,1700,2900,2300,
+711,Propeamussiidae,Cyclopecten,liriope,Cyclopecten_liriope,7.9,-0.4,3.75,8.3,7,1496,2324,1910,
+478,Propeamussiidae,Cyclopecten,multistriatus,Cyclopecten_multistriatus,-42.2,-55.8,-49,13.6,1.8,12,190,101,
+712,Propeamussiidae,Cyclopecten,pernomus,Cyclopecten_pernomus,29,-2.2,13.4,31.2,10,2,355,178.5,
+374,Propeamussiidae,Cyclopecten,squamiformis,Cyclopecten_squamiformis,48.6,34.8,41.7,13.8,10,2000,4100,3050,Hard (nestling in silicious sponges)
+375,Propeamussiidae,Cyclopecten,zephyrus,Cyclopecten_zephyrus,33.9,33.2,33.55,0.7,,560,914,737,
+872,Galeommatidae,Cymatioa,electilis,Cymatioa_electilis,34.4,-1.3,16.55,35.7,25,0,30,15,
+1,Tellinidae,Cymatioca,undulata,Cymatioca_undulata,31.7,-2.9,14.4,34.6,17,7,62,34.5,Sand and mud
+868,Cyrenoididae,Cyrenoida,panamensis,Cyrenoida_panamensis,10.2,9,9.6,1.2,18,0,,0,
+1142,Hiatellidae,Cyrtodaria,kurriana,Cyrtodaria_kurriana,71.4,63,67.2,8.4,40,10,85,47.5,
+307,Mytilidae,Dacrydium (Dacrydium),pacificum,Dacrydium (Dacrydium)_pacificum,56.8,25,40.9,31.8,4,90,2570,1330,
+308,Mytilidae,Dacrydium (Dacrydium),rostriferum,Dacrydium (Dacrydium)_rostriferum,48.4,44.6,46.5,3.8,6,2350,2870,2610,
+309,Mytilidae,Dacrydium (Dacrydium),vitreum,Dacrydium (Dacrydium)_vitreum,71,55.2,63.1,15.8,5,30,150,90,Panarctic and circumboreal
+570,Dacrydiinae,Dacrydium,elegantulum,Dacrydium_elegantulum,29.2,-1,14.1,30.2,3,58,180,119,
+568,Dacrydiinae,Dacrydium,pacificum,Dacrydium_pacificum,56.8,24.1,40.45,32.7,4,90,2570,1330,
+569,Dacrydiinae,Dacrydium,panamensis,Dacrydium_panamensis,27.1,5.8,16.45,21.3,6,830,4100,2465,
+1214,Verticordiidae,Dallicordia,alaskana,Dallicordia_alaskana,57.1,33.4,45.25,23.7,30,800,3570,2185,fine mud
+1483,Cardiidae,Dallocardia,senticosa,Dallocardia_senticosa,31.3,-8.1,11.6,39.4,57,0,90,,
+804,Cardiidae,Dallocardia,senticosum,Dallocardia_senticosum,31.3,-5.9,12.7,37.2,60,0,90,45,
+1517,Mactridae,Darina,solenoides,Darina_solenoides,-38.2,-54,-46.1,15.8,70,0,0,,
+351,Pectinidae,Delectopecten,vancouverensis,Delectopecten_vancouverensis,60.8,27.9,44.35,32.9,45,27,4100,2063.5,"byssate nestler on mud, usually assoicated with large silicious sponges and sometimes large crustaceans"
+690,Camponectinae,Delectopecten,zacae,Delectopecten_zacae,30.5,-1,14.75,31.5,22,10,1840,925,
+1220,Poromyidae,Dermatomya,buttoni,Dermatomya_buttoni,36.7,31.5,34.1,5.2,15,82,821,451.5,mud
+1222,Poromyidae,Dermatomya,mactroides,Dermatomya_mactroides,34.1,-51.9,-8.9,86,18,120,1185,652.5,
+1223,Poromyidae,Dermatomya,tenuiconcha,Dermatomya_tenuiconcha,54,32.9,43.45,21.1,27,293,2200,1246.5,mud
+893,Lasaeidae,Diarmaidia,egretta,Diarmaidia_egretta,13.5,-4.1,4.7,17.6,10,0,75,37.5,
+895,Lasaeidae,Diarmaidia,zorritensis,Diarmaidia_zorritensis,-3.7,-5.9,-4.8,2.2,10,,,0,
+676,Dimyidae,Dimya,californiana,Dimya_californiana,34,24.4,29.2,9.6,17,35,1250,642.5,
+950,Ungulindae,Diplodonta,aleutica,Diplodonta_aleutica,71.4,57,64.2,14.4,34,0,60,30,mud and gravel
+154,Ungulindae,Diplodonta,caelata,Diplodonta_caelata,23.5,-4.2,9.65,27.7,24,0,35,17.5,
+146,Ungulindae,Diplodonta,cornea,Diplodonta_cornea,9.9,-11.5,-0.8,21.4,21,0,20,10,Sand
+951,Ungulindae,Diplodonta,impolita,Diplodonta_impolita,57,44,50.5,13,32,0,100,50,
+1527,Ungulinidae,Diplodonta,inconspicua,Diplodonta_inconspicua,-12.5,-49.1,-30.8,36.6,26,0,70,,"epifaunal and infaunal on sand, gravel and cobble"
+156,Ungulindae,Diplodonta,inezensis,Diplodonta_inezensis,31,-0.16,15.42,31.16,20,6,100,53,
+153,Ungulindae,Diplodonta,obliqua,Diplodonta_obliqua,25.6,-2.4,11.6,28,6,6,30,18,
+147,Ungulindae,Diplodonta,orbella,Diplodonta_orbella,36.6,7.4,22,29.2,37,0,46,23,Rubble
+155,Ungulindae,Diplodonta,semirugosa,Diplodonta_semirugosa,31.3,-4.1,13.6,35.4,14,0,122,61,Sand
+953,Ungulindae,Diplodonta,sericata,Diplodonta_sericata,34,-3.5,15.25,37.5,24,0,75,37.5,mud or coarse sand
+1528,Ungulinidae,Diplodonta,soror,Diplodonta_soror,31.3,-12.1,9.6,43.4,15,0,120,,offshore
+150,Ungulindae,Diplodonta,subquatrata,Diplodonta_subquatrata,31.4,-2.1,14.65,33.5,37,0,183,91.5,
+1308,Pholadinae,Diplothyra,curta,Diplothyra_curta,31.5,-2.2,14.65,33.7,15,0,25,12.5,Boring into shells
+742,Lucinidae,Divalinga,eburnea,Divalinga_eburnea,31.5,-4.1,13.7,35.6,31,0,100,50,
+743,Lucinidae,Divalinga,perparvula,Divalinga_perparvula,28.8,-14.3,7.25,43.1,23,7,60,33.5,
+84,Donacidae,Donax,asper,Donax_asper,13.2,-3.7,4.75,16.9,47,0,0,0,Sand and mangroves
+83,Donacidae,Donax,assimilis,Donax_assimilis,17.6,-2.8,7.4,20.4,44,0,0,0,Sand
+72,Donacidae,Donax,caelatus,Donax_caelatus,28.8,13.9,21.35,14.9,49,0,3,1.5,Sand
+81,Donacidae,Donax,californicus,Donax_californicus,34.4,-3.5,15.45,37.9,33,0,0,,Sand and sandy mud
+79,Donacidae,Donax,carinatus,Donax_carinatus,24.6,-4.1,10.25,28.7,52,0,14,7,Sand
+73,Donacidae,Donax,culter,Donax_culter,25.4,16.9,21.15,8.5,47,0,3,1.5,Sand
+85,Donacidae,Donax,dentifer,Donax_dentifer,14.7,-5.1,4.8,19.8,48,0,0,0,Sand
+74,Donacidae,Donax,ecuadorianus,Donax_ecuadorianus,13.2,-1.5,5.85,14.7,22,0,0,,Sand
+86,Donacidae,Donax,gouldii,Donax_gouldii,37.1,24.1,30.6,13,35,0,5,2.5,Sand
+82,Donacidae,Donax,gracilis,Donax_gracilis,31.4,-4.7,13.35,36.1,29,0,50,25,Sand and mud
+71,Donacidae,Donax,kindermanni,Donax_kindermanni,19.3,13.2,16.25,6.1,48,0,25,12.5,Sand
+1494,Donacidae,Donax,obesulus,Donax_obesulus,-0.5,-23.5,-12,23,40,0,0,,sandy beaches
+76,Donacidae,Donax,obesus,Donax_obesus,17.6,-5.1,6.25,22.7,15,0,23,11.5,Sand
+77,Donacidae,Donax,punctatostriatus,Donax_punctatostriatus,31.4,19.1,25.25,12.3,48,0,17,8.5,Sand
+78,Donacidae,Donax,rothi,Donax_rothi,10,-4.6,2.7,14.6,22,0,0,0,Sand
+80,Donacidae,Donax,transversus,Donax_transversus,24.6,-5.1,9.75,29.7,42,0,0,0,Sand
+1255,Veneridae,Dosinia,dunkeri,Dosinia_dunkeri,31.4,-6.9,12.25,38.3,60,0,70,35,0
+1256,Veneridae,Dosinia,ponderosa,Dosinia_ponderosa,31.4,-3.5,13.95,34.9,147,0,60,30,0
+1257,Veneridae,Dosinia,semiobliterata,Dosinia_semiobliterata,23.2,0.4,11.8,22.8,53,0,23,11.5,0
+1515,Vesicomyidae,Ectenagena,australis,Ectenagena_australis,-36.6,-37.6,-37.1,1,152,651,1400,1025.5,
+284,Limopsidae,Empleconia,vaginata,Empleconia_vaginata,58.1,53.6,55.85,4.5,40,160,650,405,
+388,Nuculidae,Ennucula cf.,cardara,Ennucula cf._cardara,-7.1,-13.9,-10.5,6.8,25,705,1200,952.5,
+387,Nuculidae,Ennucula,agujana,Ennucula_agujana,-5.8,-5.8,-5.8,0,12,1895,1895,1895,
+483,Nuculidae,Ennucula,cardara,Ennucula_cardara,48.6,-3.9,22.35,52.5,16,4,100,52,
+389,Nuculidae,Ennucula,colombiana,Ennucula_colombiana,31,-42.5,-5.75,73.5,10,11,734,372.5,
+390,Nuculidae,Ennucula,grayi,Ennucula_grayi,-33,-54.4,-43.7,21.4,14,13,459,236,
+391,Nuculidae,Ennucula,interflucta,Ennucula_interflucta,-20.2,-20.2,-20.2,0,1,0,,,
+209,Nuculidae,Ennucula,linki,Ennucula_linki,48,27.9,37.95,20.1,10,45,1800,922.5,
+485,Nuculidae,Ennucula,panamina,Ennucula_panamina,6.3,-4.1,1.1,10.4,22,550,3058,1804,
+486,Nuculidae,Ennucula,taeniolata,Ennucula_taeniolata,27.6,16.5,22.05,11.1,30,902,1275,1088.5,
+487,Nuculidae,Ennucula,tenuis,Ennucula_tenuis,71,9.5,40.25,61.5,17,20,1450,735,
+1359,Pharidae,Ensis,californicus,Ensis_californicus,31.7,19.2,25.45,12.5,85,0,50,25,
+1578,Pharidae,Ensis,macha,Ensis_macha,-11.1,-55,-33.05,43.9,156,0,55,,
+1115,Pharidae,Ensis,myrae,Ensis_myrae,36.6,27.2,31.9,9.4,85,5,25,15,sandy mud
+1361,Pharidae,Ensis,nitidus,Ensis_nitidus,31,9.7,20.35,21.3,92,0,23,11.5,
+1362,Pharidae,Ensis,tropicalis,Ensis_tropicalis,31.7,8.5,20.1,23.2,98,0,62,31,
+849,Basterotiidae,Ensitellops,hertleini,Ensitellops_hertleini,31.4,-2.2,14.6,33.6,9,0,35,17.5,
+1586,Lyonsiidae,Entodesma,cuneatum,Entodesma_cuneatum,-9.4,-52.6,-31,43.2,53,0,252,,"inside tuicates, in sponges and on holdfasts of algae"
+1174,Lyonsiidae,Entodesma,navicula,Entodesma_navicula,60,32.7,46.35,27.3,150,0,60,30,rock
+1175,Lyonsiidae,Entodesma,pictum,Entodesma_pictum,36.7,-3.1,16.8,39.8,32,0,40,20,sponge
+635,Noetiidae,Eontia,olssoni,Eontia_olssoni,27.9,-4.7,11.6,32.6,37,24,50,37,
+744,Lucinidae,Epilucina,californica,Epilucina_californica,41.8,24.5,33.15,17.3,40,0,96,48,
+1499,Semelidae,Ervilia,producta,Ervilia_producta,-12,-33.7,-22.85,21.7,5.2,,,,
+794,Crassatellinae,Eucrassatella,antillarum,Eucrassatella_antillarum,30.3,-2.7,13.8,33,105,5,206,105.5,
+972,Crassatellidae,Eucrassatella,fluctuata,Eucrassatella_fluctuata,34.1,32.9,33.5,1.2,53,10,320,165,
+795,Crassatellinae,Eucrassatella,gibbosa,Eucrassatella_gibbosa,31.1,-5.6,12.75,36.7,93,5,110,57.5,
+1553,Veneridae,Eurhomalea,rufa,Eurhomalea_rufa,-8.3,-37.2,-22.75,28.9,115,0,20,,"coarse sand at exposed locations, under boulders"
+349,Pectinidae,Euvola,diegensis,Euvola_diegensis,38.3,22.9,30.6,15.4,150,10,400,205,Hard (shale) Soft (sandy substrata)
+679,Pectinidae,Euvola,perulus,Euvola_perulus,27.9,-4.5,11.7,32.4,43,2,119,60.5,
+680,Pectinidae,Euvola,vogdesi,Euvola_vogdesi,33.4,7.9,20.65,25.5,117,0,155,77.5,
+850,Sportellidae,Fabella,stearnsii,Fabella_stearnsii,30.3,-1.4,14.45,31.7,16,4,32,18,
+1373,Pandoridae,Foveadens,panamensis,Foveadens_panamensis,9,8.5,8.75,0.5,26,,,,
+1374,Pandoridae,Frenamya,arcuata,Frenamya_arcuata,24.7,-4.1,10.3,28.8,26,15,30,22.5,
+1375,Pandoridae,Frenamya,cristata,Frenamya_cristata,26.7,26.7,26.7,0,24,,,,
+1376,Pandoridae,Frenamya,radians,Frenamya_radians,26.8,21.4,24.1,5.4,24,4,300,152,Mud
+1511,Gaimardiidae,Gaimardia,bahamondei,Gaimardia_bahamondei,-37.1,-43.4,-40.25,6.3,10,5,20,12.5,red algae
+873,Galeommatidae,Galeommella,peruviana,Galeommella_peruviana,31.4,-3.7,13.85,35.1,7,,,0,
+88,Psammobiidae,Gari,californica,Gari_californica,60.8,24.6,42.7,36.2,141,0,55,27.5,Sand and gravel
+1096,Psamobiidae,Gari,fucata,Gari_fucata,34,24.6,29.3,9.4,140,5,137,71,sand
+94,Psammobiidae,Gari,helenae,Gari_helenae,30.3,-1.6,14.35,31.9,61,0,155,77.5,
+90,Psammobiidae,Gari,lata,Gari_lata,30.3,-2.2,14.05,32.5,66,0,110,55,
+91,Psammobiidae,Gari,maxima,Gari_maxima,27.9,7.5,17.7,20.4,125,3,15,9,
+92,Psammobiidae,Gari,panamensis,Gari_panamensis,25.8,-2.6,11.6,28.4,55,2,59,30.5,
+1495,Psammobiidae,Gari,solida,Gari_solida,-4.6,-43.4,-24,38.8,93,0,46,,nestling in small rocks
+1364,Gastrochaenidae,Gastrochaena,brevis,Gastrochaena_brevis,8,1,4.5,7,21,5,15,10,Pinctada shells
+1365,Gastrochaenidae,Gastrochaena,denticulata,Gastrochaena_denticulata,21.6,-3.9,8.85,25.5,18,0,70,35,
+1366,Gastrochaenidae,Gastrochaena,ovata,Gastrochaena_ovata,24.4,-2.2,11.1,26.6,31,0,55,27.5,Coral
+1045,Veneridae,Gemma,gemma,Gemma_gemma,40.7,33,36.85,7.7,5,0,100,50,mud or sand
+323,Mytilidae,Geukensia,demissa,Geukensia_demissa,37.7,33.6,35.65,4.1,100,,,,0
+982,Carditidae,Glans,carpenteri,Glans_carpenteri,53.9,27.7,40.8,26.2,15,0,100,50,rock or rock debris
+172,Veneridae,Globivenus,fordii,Globivenus_fordii,36.6,27.2,31.9,9.4,77,0,70,35,
+173,Veneridae,Globivenus,isocardia,Globivenus_isocardia,27.8,-1.3,13.25,29.1,127,8,110,59,
+174,Veneridae,Globivenus,magdalenae,Globivenus_magdalenae,27.9,8.2,18.05,19.7,53,35,200,117.5,
+279,Glycymerididae,Glycymeris (Axinola),keenae,Glycymeris (Axinola)_keenae,54.8,54.8,54.8,0,10,55,55,55,
+280,Glycymerididae,Glycymeris (Axinola),septentrionalis,Glycymeris (Axinola)_septentrionalis,59.2,25,42.1,34.2,45,0,400,,0
+626,Glycymerididae,Glycymeris,gigantea,Glycymeris_gigantea,31.4,14.8,23.1,16.6,105,0,60,30,
+453,Glycymerididae,Glycymeris,intermedia,Glycymeris_intermedia,-9.3,-33,-21.15,23.7,56,8,15,11.5,
+627,Glycymerididae,Glycymeris,lintea,Glycymeris_lintea,7.3,-3.7,1.8,11,59,,,0,
+454,Glycymerididae,Glycymeris,maculata,Glycymeris_maculata,31.4,-8.6,11.4,40,84,0,84,,
+629,Glycymerididae,Glycymeris,ovata,Glycymeris_ovata,-5.1,-13.6,-9.35,8.5,45,0,31,15.5,
+630,Glycymerididae,Glycymeris,septentrionalis,Glycymeris_septentrionalis,59.2,29.1,44.15,30.1,45,0,400,200,
+192,Veneridae,Gouldia,californica,Gouldia_californica,28.2,-13.6,7.3,41.8,8,0,165,82.5,
+563,Crenellinae,Gregariella,coarctata,Gregariella_coarctata,36.7,-12.1,12.3,48.8,25,0,90,45,
+564,Crenellinae,Gregariella,denticulata,Gregariella_denticulata,16.9,8.8,12.85,8.1,18,0,,0,
+1140,Spheniopsidae,Grippina,californica,Grippina_californica,33.9,8.7,21.3,25.2,3,0,95,47.5,sand and rubble
+1466,Lasaeidae,Gullerina,cahuelmensis,Gullerina_cahuelmensis,-42.3,-42.3,-42.3,0,5,10,113,61.5,
+1210,Verticordiidae,Halicardia,perlicata,Halicardia_perlicata,53,-0.4,26.3,53.4,50,1000,1500,1250,soft mud
+1211,Verticordiidae,Haliris,aequacostata,Haliris_aequacostata,33.4,-1,16.2,34.4,4,80,400,240,mud
+930,Mactridae,Harvella,elegans,Harvella_elegans,23,-4,9.5,27,76,0,70,35,
+745,Lucinidae,Here,excavata,Here_excavata,34.4,23.8,29.1,10.6,25,15,135,75,
+1377,Pandoridae,Heteroclidius,puncata,Heteroclidius_puncata,49.9,26.2,38.05,23.7,47,0,50,25,Mud
+95,Psammobiidae,Heterodonax,pacificus,Heterodonax_pacificus,36.6,-4.1,16.25,40.7,30,0,2,1,Sand and gravel
+1298,Corbulidae,Hexacorula,esmeralda,Hexacorula_esmeralda,1,-0.6,0.2,1.6,23,5,43,24,
+1348,Hiatellidae,Hiatella,arctica,Hiatella_arctica,71.4,-0.3,35.55,71.7,50,0,1230,615,Wide variety
+1038,Veneridae,Humaliaria,kennerleyi,Humaliaria_kennerleyi,60.8,34,47.4,26.8,95,0,45,22.5,
+203,Manzanellidae,Huxleyia,munita,Huxleyia_munita,48.1,27.2,37.65,20.9,3,70,750,410,Soft substrata and coarse sand
+705,Palliolinae,Hyalopecten,neoceanicus,Hyalopecten_neoceanicus,45,-8.1,18.45,53.1,13,3500,4100,3800,
+668,Gryphaeidae,Hyotissa,hyotis,Hyotissa_hyotis,29.8,-1.3,14.25,31.1,230,0,30,15,
+669,Gryphaeidae,Hyotissa,quercinus,Hyotissa_quercinus,31.4,-6.4,12.5,37.8,89,0,,0,
+195,Veneridae,Hysteroconcha,brevispinosus,Hysteroconcha_brevispinosus,11.5,-0.9,5.3,12.4,44,0,30,15,
+196,Veneridae,Hysteroconcha,lupanaria,Hysteroconcha_lupanaria,28.8,-5.9,11.45,34.7,78,0,24,12,
+197,Veneridae,Hysteroconcha,multispinosus,Hysteroconcha_multispinosus,22.4,-3.5,9.45,25.9,41,8,20,14,
+198,Veneridae,Hysteroconcha,roseus,Hysteroconcha_roseus,24.6,-3.5,10.55,28.1,63,6,73,39.5,
+561,Bathymodiolinae,Idas,washingtonius,Idas_washingtonius,54,28,41,26,9,560,2200,1380,
+175,Veneridae,Iliochone,subrugosa,Iliochone_subrugosa,31.4,-5.6,12.9,37,50,0,0,0,Mudflats
+87,Donacidae,Iphigenia,altior,Iphigenia_altior,23.2,-5.8,8.7,29,84,0,11,5.5,Mud
+1039,Veneridae,Irusella,lamellifera,Irusella_lamellifera,39.7,30.5,35.1,9.2,50,0,100,50,rocks
+647,Isognomonidae,Isognomon (Melina),janus,Isognomon (Melina)_janus,32.7,-6.5,13.1,39.2,97,0,20,10,
+471,Isognomonidae,Isognomon,recognitus,Isognomon_recognitus,33.6,-18.8,7.4,52.4,50,0,5,,rocks
+994,Lasaeidae,Isorobitella,trigonalis,Isorobitella_trigonalis,33.6,23.2,28.4,10.4,10,2,20,11,
+1319,Jouannetiidae,Jouannetia,duchassaingi,Jouannetia_duchassaingi,10.8,-0.9,4.95,11.7,50,12,40,26,Rocky walls and pinnacles with gorgonians
+1320,Jouannetiidae,Jouannetia,pectinata,Jouannetia_pectinata,28.1,-2.2,12.95,30.3,52,0,55,27.5,Soft rock
+1299,Corbulidae,Juliacorbula,bicarinata,Juliacorbula_bicarinata,31.4,-3.7,13.85,35.1,13,0,110,55,Rubble
+1138,Corbulidae,Juliacorbula,luteola,Juliacorbula_luteola,36.7,22.9,29.8,13.8,10,0,60,30,boulders and rocky rubble
+502,Nuculanidae,Jupiteria,agapea,Jupiteria_agapea,22.4,1.1,11.75,21.3,21,2879,3060,2969.5,
+503,Nuculanidae,Jupiteria,callimene,Jupiteria_callimene,9.5,6.9,8.2,2.6,15,183,3200,1691.5,
+504,Nuculanidae,Jupiteria,lobula,Jupiteria_lobula,27.9,13.3,20.6,14.6,16,20,258,139,
+505,Nuculanidae,Jupiteria,pontonia,Jupiteria_pontonia,32.7,-0.6,16.05,33.3,15,1150,3000,2075,
+457,Parallelodontidae,Kamenevus,platei,Kamenevus_platei,-33.7,-33.7,-33.7,0,23,0,,,
+240,Malletiidae,Katadesmia,vincula,Katadesmia_vincula,55.3,5.7,30.5,49.6,15,590,3585,2087.5,abyssal depths
+896,Lasaeidae,Kellia,suborbicularis,Kellia_suborbicularis,60.1,-14.3,22.9,74.4,34,0,183,91.5,
+1467,Lasaeidae,Kellia,tumbesiana,Kellia_tumbesiana,-12.1,-36.6,-24.35,24.5,10,0,0,,
+1009,Kelliellidae,Kelliella,galatheae,Kelliella_galatheae,50.9,5.7,28.3,45.2,7,1760,4000,2880,Abyssal plain
+1010,Kelliellidae,Kelliella,pacifica,Kelliella_pacifica,44.9,35,39.95,9.9,9,4882,5200,5041,Abyssal plain
+897,Lasaeidae,Kurtiella,compressa,Kurtiella_compressa,31.3,-4.1,13.6,35.4,10,0,45,22.5,
+1469,Lasaeidae,Kurtiella,coquimbensis,Kurtiella_coquimbensis,-23.7,-29.7,-26.7,6,6,11,11,11,
+1470,Lasaeidae,Kurtiella,deanneae,Kurtiella_deanneae,-33,-41.8,-37.4,8.8,2,97,97,97,
+898,Lasaeidae,Kurtiella,ellipticum,Kurtiella_ellipticum,31.4,20.8,26.1,10.6,5,0,30,15,
+899,Lasaeidae,Kurtiella,garfinkleae,Kurtiella_garfinkleae,33.4,27.9,30.65,5.5,4,0,30,15,
+900,Lasaeidae,Kurtiella,jablonskii,Kurtiella_jablonskii,31,7.8,19.4,23.2,3,0,183,91.5,
+901,Lasaeidae,Kurtiella,lediforme,Kurtiella_lediforme,31,7.9,19.45,23.1,3,,,0,
+1471,Lasaeidae,Kurtiella,montemarensis,Kurtiella_montemarensis,-33,-33,-33,0,3.3,65,65,65,
+902,Lasaeidae,Kurtiella,pedroana,Kurtiella_pedroana,37.7,22.4,30.05,15.3,13,0,46,23,
+903,Lasaeidae,Kurtiella,regueroae,Kurtiella_regueroae,31.3,19.1,25.2,12.2,4,0,30,15,
+904,Lasaeidae,Kurtiella,sublaevis,Kurtiella_sublaevis,31.4,-3.1,14.15,34.5,4,7,135,71,
+905,Lasaeidae,Kurtiella,tumida,Kurtiella_tumida,71.4,26,48.7,45.4,5,0,973,486.5,
+906,Lasaeidae,Kurtiella,umbonatum,Kurtiella_umbonatum,31.4,16.9,24.15,14.5,4.5,0,20,10,
+815,Cardiidae,Laevicardium,clarionense,Laevicardium_clarionense,29.6,-2.2,13.7,31.8,50,20,155,87.5,
+1030,Cardiidae,Laevicardium,elatum,Laevicardium_elatum,33.6,9,21.3,24.6,190,0,20,10,0 zone
+1031,Cardiidae,Laevicardium,substriatum,Laevicardium_substriatum,34.1,-4.1,15,38.2,40,0,40,20,mud or sand
+199,Veneridae,Lamelliconcha,alternatus,Lamelliconcha_alternatus,31.3,-4.3,13.5,35.6,56,0,55,27.5,
+1224,Veneridae,Lamelliconcha,callicomatus,Lamelliconcha_callicomatus,19.1,-2.8,8.15,21.9,47,12,73,42.5,
+1225,Veneridae,Lamelliconcha,concinnus,Lamelliconcha_concinnus,31.4,-3.7,13.85,35.1,52,0,73,36.5,Interdidal
+1226,Veneridae,Lamelliconcha,frizzelli,Lamelliconcha_frizzelli,28.9,23,25.95,5.9,46,35,110,72.5,Interdidal
+1227,Veneridae,Lamelliconcha,paytensis,Lamelliconcha_paytensis,13.9,-5.3,4.3,19.2,41,3,40,21.5,Interdidal
+1228,Veneridae,Lamelliconcha,tortuosus,Lamelliconcha_tortuosus,13.4,-3.5,4.95,16.9,51,0,,,Interdidal
+1229,Veneridae,Lamelliconcha,unicolor,Lamelliconcha_unicolor,22.6,-1.4,10.6,24,55,0,11,5.5,Interdidal
+1230,Veneridae,Lamelliconcha,vinaceus,Lamelliconcha_vinaceus,27.9,-1.4,13.25,29.3,40,0,30,15,Interdidal
+1186,Thraciidae,Lampeia,adamsi,Lampeia_adamsi,71.4,64.3,67.85,7.1,30,10,41,25.5,gravel
+1368,Gastrochaenidae,Lamychaena,paredesi,Lamychaena_paredesi,-4.2,-4.2,-4.2,0,13.3,,,,
+1367,Gastrochaenidae,Lamychaena,truncata,Lamychaena_truncata,33.7,-1.8,15.95,35.5,36,0,40,20,Various gastropod shells
+991,Lasaeidae,Lasaea,adansoni,Lasaea_adansoni,57.1,-6.7,25.2,63.8,3,0,10,5,"0 zone, among mussles and barnicles"
+1472,Lasaeidae,Lasaea,petitiana,Lasaea_petitiana,-6.6,-36.6,-21.6,30,5,0,0,,
+1187,Laternulidae,Laternula,marilina,Laternula_marilina,46.6,40.7,43.65,5.9,40,,,,mud
+924,Vesicomyidae,Laubiericoncha,angulata,Laubiericoncha_angulata,7.1,5.2,6.15,1.9,77,2324,4000,3162,
+228,Nuculanidae,Ledella (Ledella),fiascona,Ledella (Ledella)_fiascona,33.7,24.2,28.95,9.5,3,48,1500,774,
+229,Nuculanidae,Ledella (Ledella),robusta,Ledella (Ledella)_robusta,44.9,44.9,44.9,0,7,4883,4883,4883,Abyssal plain
+230,Nuculanidae,Ledella (Ledella),sandersi,Ledella (Ledella)_sandersi,57.6,57.6,57.6,0,5,3240,3300,3270,
+231,Nuculanidae,Ledella (Ledella),tamara,Ledella (Ledella)_tamara,77.6,71.8,74.7,5.8,2.6,2130,3800,2965,
+232,Nuculanidae,Ledella (Ledella),ultima,Ledella (Ledella)_ultima,34.7,31.2,32.95,3.5,3,2278,5160,3719,distributed in deep waters
+522,Nuculanidae,Ledella,dicella,Ledella_dicella,16.6,-0.6,8,17.2,6,734,1208,971,
+406,Nuculanidae,Ledella,ultima,Ledella_ultima,-28.18,-28.18,-28.18,0,4,4235,4315,4275,
+233,Nuculanidae,Ledellina,convexirostrata,Ledellina_convexirostrata,51.7,44.7,48.2,7,6,2800,6608,4704,
+234,Nuculanidae,Ledellina,formabile,Ledellina_formabile,57.6,57.6,57.6,0,8.6,3680,3940,3810,
+407,Nuculanidae,Ledellina,olivacea,Ledellina_olivacea,-5.9,-23.4,-14.65,17.5,9.4,1025,7400,4212.5,
+439,Mytilidae,Leiosolenus,aristatus,Leiosolenus_aristatus,32.7,-20.2,6.25,52.9,42,0,300,,"boring into shells, rocks, coral"
+440,Mytilidae,Leiosolenus,attenuatus,Leiosolenus_attenuatus,33.8,-12.1,10.85,45.9,111,0,80,,
+572,Lithophaginae,Leiosolenus,levigatus,Leiosolenus_levigatus,27.9,-1,13.45,28.9,56,0,24,12,
+441,Mytilidae,Leiosolenus,peruvianus,Leiosolenus_peruvianus,-6.5,-33.7,-20.1,27.2,76,,,,
+442,Mytilidae,Leiosolenus,plumula,Leiosolenus_plumula,36.6,-16.2,10.2,52.8,69,0,35,,"boring into shale, large mollusk shells and coral"
+573,Lithophaginae,Leiosolenus,spatiosus,Leiosolenus_spatiosus,31.4,-3.7,13.85,35.1,63,0,27,13.5,
+682,Pectinidae,Leopecten,diegensis,Leopecten_diegensis,38.3,22.9,30.6,15.4,127,10,400,205,
+683,Pectinidae,Leopecten,isabellensis,Leopecten_isabellensis,-0.3,-1.3,-0.8,1,73,18,146,82,
+684,Pectinidae,Leopecten,sericeus,Leopecten_sericeus,29.5,-3.6,12.95,33.1,88,13,183,98,
+685,Pectinidae,Leopecten,stillmani,Leopecten_stillmani,27.9,11.6,19.75,16.3,70,55,100,77.5,
+1092,Tellinidae,Lepormetis,obesa,Lepormetis_obesa,34.5,24.6,29.55,9.9,112,0,50,25,
+107,Semelidae,Leptomya,ecuadoriana,Leptomya_ecuadoriana,25.6,-3.5,11.05,29.1,37,0,40,20,Mud
+695,Chlamydinae,Leptopecten,biolleyi,Leptopecten_biolleyi,26.7,-3.1,11.8,29.8,12,18,220,119,
+696,Chlamydinae,Leptopecten,camerella,Leptopecten_camerella,27.2,23.6,25.4,3.6,20,64,73,68.5,
+697,Chlamydinae,Leptopecten,euterpes,Leptopecten_euterpes,27.9,8.1,18,19.8,11,2,183,92.5,
+698,Chlamydinae,Leptopecten,latiauratus,Leptopecten_latiauratus,38,22.9,30.45,15.1,38,0,250,125,
+699,Chlamydinae,Leptopecten,palmeri,Leptopecten_palmeri,31.3,27.9,29.6,3.4,60,0,91,45.5,
+700,Chlamydinae,Leptopecten,tumbezensis,Leptopecten_tumbezensis,27.9,-4.7,11.6,32.6,45,0,128,,
+701,Chlamydinae,Leptopecten,velero,Leptopecten_velero,30.3,-4.6,12.85,34.9,17,5,90,47.5,
+176,Veneridae,Leukoma,asperrima,Leukoma_asperrima,28.8,-5.9,11.45,34.7,51,0,0,0,
+177,Veneridae,Leukoma,beili,Leukoma_beili,23.2,-2.4,10.4,25.6,57,0,0,0,Rocks
+178,Veneridae,Leukoma,columbiensis,Leukoma_columbiensis,27.9,-7.4,10.25,35.3,60,0,0,0,
+179,Veneridae,Leukoma,ecuadoriana,Leukoma_ecuadoriana,13.4,-3.5,4.95,16.9,53,0,0,0,Mud
+180,Veneridae,Leukoma,grata,Leukoma_grata,31.4,-4.5,13.45,35.9,53,0,390,195,Mudflats
+181,Veneridae,Leukoma,histrionica,Leukoma_histrionica,27.9,-5.9,11,33.8,56,0,0,0,
+182,Veneridae,Leukoma,laciniata,Leukoma_laciniata,36.8,24.8,30.8,12,90,0,90,45,
+183,Veneridae,Leukoma,metodon,Leukoma_metodon,23.2,-5.9,8.65,29.1,43,0,0,0,
+184,Veneridae,Leukoma,pertincta,Leukoma_pertincta,-1,-1,-1,0,40,0,0,0,
+185,Veneridae,Leukoma,staminea,Leukoma_staminea,60.8,22.9,41.85,37.9,80,0,45,22.5,Sand
+186,Veneridae,Leukoma,sugillata,Leukoma_sugillata,1,1,1,0,40,0,0,0,
+1536,Veneridae,Leukoma,thaca,Leukoma_thaca,-5.1,-45,-25.05,39.9,70,0,15,,"sand, silt or gravel"
+725,Limidae,Lima,tetrica,Lima_tetrica,30.3,-1.3,14.5,31.6,73,0,110,55,
+726,Limidae,Limaria,hemphilli,Limaria_hemphilli,36.6,-6.4,15.1,43,37,0,120,60,
+727,Limidae,Limaria,orbignyi,Limaria_orbignyi,31.3,-5.9,12.7,37.2,37,0,22,11,
+728,Limidae,Limaria,pacifica,Limaria_pacifica,31.3,-5.9,12.7,37.2,41,0,10,5,
+333,Limidae,Limatula (Limatula),attenuata,Limatula (Limatula)_attenuata,58,48.4,53.2,9.6,8,15,274,144.5,
+334,Limidae,Limatula (Limatula),hyperborea,Limatula (Limatula)_hyperborea,71,71,71,0,20,79,455,267,
+335,Limidae,Limatula (Limatula),saturna,Limatula (Limatula)_saturna,56.5,22.9,39.7,33.6,16,30,675,352.5,
+336,Limidae,Limatula (Limatula),similaris,Limatula (Limatula)_similaris,34.1,8.7,21.4,25.4,5,1.5,200,100.75,
+337,Limidae,Limatula (Limatula),vancouverensis,Limatula (Limatula)_vancouverensis,50.4,34.7,42.55,15.7,16,2000,4100,3050,
+338,Limidae,Limatula (Limatuletta),coani,Limatula (Limatuletta)_coani,31.3,31.3,31.3,0,12,3706,3806,3756,
+339,Limidae,Limatula (Limatuletta),japonica,Limatula (Limatuletta)_japonica,53,53,53,0,17.5,20,500,260,Soft (sand)
+1442,Limidae,Limatula,ceciliaosorioae,Limatula_ceciliaosorioae,-36.4,-36.4,-36.4,0,2.2,34,35,34.5,
+1443,Limidae,Limatula,chilensis,Limatula_chilensis,-23.7,-42.2,-32.95,18.5,2.4,22,33,27.5,
+729,Limidae,Limatula,saturna,Limatula_saturna,56.5,27.9,42.2,28.6,16,20,675,347.5,
+730,Limidae,Limatula,similaris,Limatula_similaris,34.1,-0.5,16.8,34.6,7,1.5,200,100.75,
+281,Limopsidae,Limopsis,akutanica,Limopsis_akutanica,56.2,51.8,54,4.4,35,55,275,165,
+640,Limopsidae,Limopsis,dalli,Limopsis_dalli,21.5,2.6,12.05,18.9,47,2800,3600,3200,
+459,Limopsidae,Limopsis,jousseaumi,Limopsis_jousseaumi,-12.7,-55,-33.85,42.3,39,120,869,494.5,
+641,Limopsidae,Limopsis,panamensis,Limopsis_panamensis,45,6.3,25.65,38.7,15,130,3900,2015,
+642,Limopsidae,Limopsis,tenella,Limopsis_tenella,51.8,-1,25.4,52.8,48,550,5180,2865,
+643,Limopsidae,Limopsis,zonalis,Limopsis_zonalis,7.2,6.5,6.85,0.7,28,1000,1431,1215.5,
+565,Crenellinae,Lioberus,salvadoricus,Lioberus_salvadoricus,31.7,8.1,19.9,23.6,42,0,40,20,
+746,Lucinidae,Liralucina,approximata,Liralucina_approximata,31.4,-1.3,15.05,32.7,11,0,91,45.5,
+1538,Veneridae,Lirophora,discrepans,Lirophora_discrepans,-8.5,-14.2,-11.35,5.7,37,0,18,,
+187,Veneridae,Lirophora,kellettii,Lirophora_kellettii,27.9,-3.6,12.15,31.5,75,27,120,73.5,
+188,Veneridae,Lirophora,mariae,Lirophora_mariae,31.4,-4.5,13.45,35.9,37,6,100,53,
+1539,Veneridae,Lirophora,peruviana,Lirophora_peruviana,-6.7,-6.7,-6.7,0,53,,,,sandy bottoms
+599,Arcidae,Litharca,lithodomus,Litharca_lithodomus,12,-4.3,3.85,16.3,86,0,,0,
+314,Mytilidae,Lithophaga (Diberus),plumula,Lithophaga (Diberus)_plumula,36.6,-1,17.8,37.6,70,0,40,,"Hard (boring into shale, 0)"
+315,Mytilidae,Lithophaga (Labis),attenuata,Lithophaga (Labis)_attenuata,33.8,-5.1,14.35,38.9,111,0,15,,0
+316,Mytilidae,Lithophaga (Myoforceps),aristata,Lithophaga (Myoforceps)_aristata,32.7,-20.2,6.25,52.9,33,0,20,,"Hard (boring in shell, 0)"
+576,Lithophaginae,Lithophaga,aristata,Lithophaga_aristata,32.7,-20.2,6.25,52.9,41,0,300,150,
+575,Lithophaginae,Lithophaga,attenuata,Lithophaga_attenuata,33.8,-8.3,12.75,42.1,111,0,80,40,
+578,Lithophaginae,Lithophaga,calyculata,Lithophaga_calyculata,24.9,-1,11.95,25.9,15,0,40,20,
+577,Lithophaginae,Lithophaga,hastasia,Lithophaga_hastasia,20.7,-4.7,8,25.4,39,0,,0,
+574,Lithophaginae,Lithophaga,plumula,Lithophaga_plumula,36.6,-1.6,17.5,38.2,70,0,40,20,
+1056,Veneridae,Loicyma,fluctuosum,Loicyma_fluctuosum,71.4,50.7,61.05,20.7,42,0,104,52,
+818,Cardiidae,Lophocardium,annettae,Lophocardium_annettae,28.3,10.6,19.45,17.7,57,0,200,100,
+819,Cardiidae,Lophocardium,cumingii,Lophocardium_cumingii,25.6,6,15.8,19.6,51,10,65,37.5,
+2,Tellinidae,Loxoglypta,obliquilineata,Loxoglypta_obliquilineata,-0.3,-0.3,-0.3,0,17,12,100,56,Sand
+747,Lucinidae,Lucinisca,centrifuga,Lucinisca_centrifuga,31.3,-5.9,12.7,37.2,20,0,174,87,
+748,Lucinidae,Lucinisca,fenestrata,Lucinisca_fenestrata,30,-1.1,14.45,31.1,55,13,90,51.5,
+749,Lucinidae,Lucinisca,nuttalli,Lucinisca_nuttalli,36.7,24.2,30.45,12.5,26,0,110,55,
+750,Lucinidae,Lucinoma,aequizonatum,Lucinoma_aequizonatum,34.4,25.4,29.9,9,55,400,840,620,
+1449,Lucinidae,Lucinoma,anemiophila,Lucinoma_anemiophila,-22.1,-36.4,-29.25,14.3,61,490,780,635,
+751,Lucinidae,Lucinoma,annulatum,Lucinoma_annulatum,60.8,25.7,43.25,35.1,68,0,665,332.5,
+752,Lucinidae,Lucinoma,heroica,Lucinoma_heroica,27.4,13.7,20.55,13.7,71,,1838,919,
+1451,Lucinidae,Lucinoma,lamellata,Lucinoma_lamellata,-38.3,-55,-46.65,16.7,48,260,1250,755,
+623,Arcidae,Lunarca,brevifrons,Lunarca_brevifrons,27.9,-4.7,11.6,32.6,43,0,90,45,
+1583,Cuspidariidae,Luzonia,chilensis,Luzonia_chilensis,47.8,-55,-3.6,102.8,16,100,1875,987.5,
+1206,Cuspidariidae,Luzonia,walleri,Luzonia_walleri,47.8,32.7,40.25,15.1,15.5,100,730,415,
+1588,Lyonsiidae,Lyonsia,delicata,Lyonsia_delicata,-14.1,-20.2,-17.15,6.1,6,0,0,,kelp holdfasts and the underside of rocks
+1589,Lyonsiidae,Lyonsia,elegantulum,Lyonsia_elegantulum,-41.8,-41.8,-41.8,0,16,0,45,,"coarse sand, under rocks"
+1213,Verticordiidae,Lyonsiella,quaylei,Lyonsiella_quaylei,52,22.9,37.45,29.1,9,350,1800,1075,fine mud
+1330,Teredinidae,Lyrodus,bipartitus,Lyrodus_bipartitus,5.8,5.8,5.8,0,5,3270,3670,3470,
+1331,Teredinidae,Lyrodus,medilobatus,Lyrodus_medilobatus,-0.9,-0.9,-0.9,0,4,,,,
+1332,Teredinidae,Lyrodus,pedicellatus,Lyrodus_pedicellatus,37.7,-5.1,16.3,42.8,4,0,0,,Wood
+1171,Lyonsiidae,Lysonsia,arenosa,Lysonsia_arenosa,71,57,64,14,20,15,100,57.5,mud or gravel
+1172,Lyonsiidae,Lysonsia,bracteata,Lysonsia_bracteata,56.4,48.6,52.5,7.8,55,50,280,165,
+1173,Lyonsiidae,Lysonsia,californica,Lysonsia_californica,60.8,16.9,38.85,43.9,42,0,100,50,mud
+1083,Tellinidae,Macoma,acolasta,Macoma_acolasta,38.3,33.7,36,4.6,30,0,75,37.5,sand
+1089,Tellinidae,Macoma,balthica,Macoma_balthica,71,32.7,51.85,38.3,30,,,,
+1072,Tellinidae,Macoma,brota,Macoma_brota,71.4,47.5,59.45,23.9,75,10,260,135,silt or sand
+1073,Tellinidae,Macoma,calcarea,Macoma_calcarea,71.4,44.6,58,26.8,60,10,360,185,mud and sand
+1084,Tellinidae,Macoma,carlottensis,Macoma_carlottensis,58.6,28.7,43.65,29.9,30,0,1550,775,mud or fine sand
+1085,Tellinidae,Macoma,dexioptera,Macoma_dexioptera,60.2,57.1,58.65,3.1,40,,,,sand
+4,Tellinidae,Macoma,ecuadoriana,Macoma_ecuadoriana,31,-5.1,12.95,36.1,101,0,80,40,Mud
+1075,Tellinidae,Macoma,elimata,Macoma_elimata,60.9,33.8,47.35,27.1,35,9,435,222,sand and silt
+5,Tellinidae,Macoma,elytrum,Macoma_elytrum,31.2,-3.6,13.8,34.8,52,1,110,55.5,Mud and muddy sand
+1086,Tellinidae,Macoma,expansa,Macoma_expansa,60,35.1,47.55,24.9,50,0,30,15,sand
+1081,Tellinidae,Macoma,golikovi,Macoma_golikovi,71.4,47.5,59.45,23.9,50,0,200,100,gravel or sand
+6,Tellinidae,Macoma,hesperus,Macoma_hesperus,27,6.4,16.7,20.6,36,46,333,189.5,
+11,Tellinidae,Macoma,indentata,Macoma_indentata,41,24.5,32.75,16.5,100,0,100,50,Silt and sand
+1487,Tellinidae,Macoma,inornata,Macoma_inornata,-28,-28,-28,0,34,25,300,162.5,
+1090,Tellinidae,Macoma,inquinata,Macoma_inquinata,56.5,34.1,45.3,22.4,55,0,50,25,silt
+1076,Tellinidae,Macoma,lama,Macoma_lama,69,53,61,16,41,0,185,92.5,sand
+7,Tellinidae,Macoma,lamproleuca,Macoma_lamproleuca,27.9,-4.1,11.9,32,97,0,30,15,Mud and sandy mud
+1077,Tellinidae,Macoma,lipara,Macoma_lipara,64.6,33.8,49.2,30.8,75,20,260,140,sand or silt
+1078,Tellinidae,Macoma,loveni,Macoma_loveni,71.4,70.9,71.15,0.5,37,4,816,410,
+1079,Tellinidae,Macoma,middendorffi,Macoma_middendorffi,71.4,57,64.2,14.4,60,25,35,30,sand
+1080,Tellinidae,Macoma,moesta,Macoma_moesta,71.4,43.4,57.4,28,30,0,260,130,silt
+13,Tellinidae,Macoma,nasuta,Macoma_nasuta,60.2,22.9,41.55,37.3,110,0,50,25,Silt and sand
+8,Tellinidae,Macoma,panamensis,Macoma_panamensis,29.8,7.6,18.7,22.2,32,22,112,67,Mud
+12,Tellinidae,Macoma,secta,Macoma_secta,54,24.6,39.3,29.4,120,0,50,25,Sand
+9,Tellinidae,Macoma,siliqua,Macoma_siliqua,31,1,16,30,30,18,110,64,Mud
+1082,Tellinidae,Macoma,torelli,Macoma_torelli,71.4,71,71.2,0.4,17,20,200,110,
+10,Tellinidae,Macoma,yoldiformis,Macoma_yoldiformis,57.1,27.7,42.4,29.4,25,0,100,50,Sand and mud
+931,Mactridae,Mactrellona,clisia,Mactrellona_clisia,27.4,-4.1,11.65,31.5,100,0,86,43,
+932,Mactridae,Mactrellona,exoleta,Mactrellona_exoleta,23.2,-4.1,9.55,27.3,131,0,20,10,
+933,Mactridae,Mactrellona,subalata,Mactrellona_subalata,21,-3.5,8.75,24.5,85,0,,0,
+934,Mactridae,Mactrinula,goniocyma,Mactrinula_goniocyma,23.2,7.1,15.15,16.1,23,20,40,30,
+1119,Mactridae,Mactromeris,catilliformis,Mactromeris_catilliformis,37.9,27.8,32.85,10.1,150,5,20,12.5,sand
+1120,Mactridae,Mactromeris,hemphillii,Mactromeris_hemphillii,35.5,26.2,30.85,9.3,165,0,50,25,sand and mud
+1121,Mactridae,Mactromeris,polynyma,Mactromeris_polynyma,70.8,56.5,63.65,14.3,155,0,110,55,mud
+935,Mactridae,Mactrotoma,angusta,Mactrotoma_angusta,23.2,-4.1,9.55,27.3,54,0,60,30,
+936,Mactridae,Mactrotoma,californica,Mactrotoma_californica,36.6,-2.2,17.2,38.8,55,0,30,15,
+937,Mactridae,Mactrotoma,isthmica,Mactrotoma_isthmica,14.3,-12.2,1.05,26.5,55,0,30,15,
+938,Mactridae,Mactrotoma,nasuta,Mactrotoma_nasuta,34.4,3.5,18.95,30.9,120,0,80,40,
+939,Mactridae,Mactrotoma,velata,Mactrotoma_velata,8.9,-18.2,-4.65,27.1,116,0,,0,
+527,Malletiidae,Malletia,alata,Malletia_alata,32.4,16.9,24.65,15.5,30,740,2430,1585,
+413,Malletiidae,Malletia,chilensis,Malletia_chilensis,-29.9,-55,-42.45,25.1,50,1,240,120.5,
+530,Malletiidae,Malletia,faba,Malletia_faba,51.4,22.9,37.15,28.5,35,200,1600,900,
+531,Malletiidae,Malletia,goniura,Malletia_goniura,6.3,-5.1,0.6,11.4,13,1500,3300,2400,
+237,Malletiidae,Malletia,pacifica,Malletia_pacifica,60.2,32.7,46.45,27.5,35,400,2900,1650,
+414,Malletiidae,Malletia,peruviana,Malletia_peruviana,-5.8,-38.1,-21.95,32.3,28,1239,1895,1567,
+238,Malletiidae,Malletia,talama,Malletia_talama,55.4,37.7,46.55,17.7,23,2900,3240,3070,
+415,Malletiidae,Malletia,truncata,Malletia_truncata,45.1,-16.7,14.2,61.8,30,2700,4134,3417,
+649,Malleidae,Malleus (Malvufundus),regulus,Malleus (Malvufundus)_regulus,25.1,7.3,16.2,17.8,120,2,59,30.5,
+1473,Lasaeidae,Malvinasia,molinae,Malvinasia_molinae,-11.8,-33,-22.4,21.2,7,0,97,,sand
+1311,Pholadinae,Martesia,cuneiformis,Martesia_cuneiformis,33.5,9,21.25,24.5,21,0,150,75,
+1309,Pholadinae,Martesia,fragilis,Martesia_fragilis,27.9,8.7,18.3,19.2,19,,,,Floating wood
+1310,Pholadinae,Martesia,striata,Martesia_striata,31.4,-3.5,13.95,34.9,44,0,60,30,Wood
+1231,Veneridae,Megapitaria,aurantiaca,Megapitaria_aurantiaca,30.3,-6.5,11.9,36.8,128,0,30,15,Interdidal
+1232,Veneridae,Megapitaria,squalida,Megapitaria_squalida,31.4,-5.1,13.15,36.5,130,0,200,100,Interdidal
+251,Yoldiidae,Megayoldia,martyria,Megayoldia_martyria,50.2,28.3,39.25,21.9,30,150,330,240,
+252,Yoldiidae,Megayoldia,montereyensis,Megayoldia_montereyensis,56.5,36.7,46.6,19.8,40,200,400,300,
+253,Yoldiidae,Megayoldia,thraciaeformis,Megayoldia_thraciaeformis,61.5,37.7,49.6,23.8,65,25,760,392.5,Low Arctic Ocean and Circumboreal
+1475,Lasaeidae,Melliteryx,platei,Melliteryx_platei,-27.1,-33.7,-30.4,6.6,8,20,62,41,
+964,Thyasiridae,Mendicula,ferruginosa,Mendicula_ferruginosa,56.5,37.8,47.15,18.7,3.2,40,4475,2257.5,
+189,Veneridae,Mercenaria,campechiensis,Mercenaria_campechiensis,27.9,22.4,25.15,5.5,33,,,,
+1525,Mesodesmatidae,Mesodesma,donacium,Mesodesma_donacium,-5.7,-42.6,-24.15,36.9,99,0,20,,
+1485,Cardiidae,Mexicardia,procera,Mexicardia_procera,31.3,-14.2,8.55,45.5,102,0,70,,
+1484,Cardiidae,Microcardium,panamense,Microcardium_panamense,29.5,-14.4,7.55,43.9,18,30,333,181.5,
+821,Cardiidae,Microcardium,pazianum,Microcardium_pazianum,27.9,-1.3,13.3,29.2,19,20,200,110,
+782,Carditidae,Milneria,kelseyi,Milneria_kelseyi,36.6,26.2,31.4,10.4,18,0,37,18.5,
+985,Carditidae,Milneria,minima,Milneria_minima,50.8,25,37.9,25.8,8,0,30,15,Abyssal plain
+753,Lucinidae,Miltha,xantusi,Miltha_xantusi,27.9,8.3,18.1,19.6,75,20,150,85,
+983,Carditidae,Miodontiscus,prolongatus,Miodontiscus_prolongatus,60.8,32.7,46.75,28.1,12,5,210,107.5,
+360,Pectinidae,Mizuhopecten,yessoensis,Mizuhopecten_yessoensis,61,35,48,26,180,1,50,25.5,
+585,Modiolinae,Modiolatus,neglectus,Modiolatus_neglectus,36.7,-5.9,15.4,42.6,130,15,110,62.5,
+586,Modiolinae,Modiolatus,pacificus,Modiolatus_pacificus,26,-5.9,10.05,31.9,98,0,,0,
+317,Mytilidae,Modiolus (Modiolus),capax,Modiolus (Modiolus)_capax,36.6,-5.1,15.75,41.7,140,,50,,"Hard (pilings, rocks) Rarely Soft (bysally attached in mud)"
+318,Mytilidae,Modiolus (Modiolus),carpenteri,Modiolus (Modiolus)_carpenteri,39.3,31.6,35.45,7.7,37,0,45,,0
+319,Mytilidae,Modiolus (Modiolus),modiolus,Modiolus (Modiolus)_modiolus,57.8,36.6,47.2,21.2,180,0,200,,Hard (nesting colonies in broken rock) Soft (shallowly infaunal in mud or gravel) (0)
+320,Mytilidae,Modiolus (Modiolus),sacculifer,Modiolus (Modiolus)_sacculifer,37.5,31.6,34.55,5.9,70,,100,,Hard (crevices)
+321,Mytilidae,Modiolus (Modiolusia),neglectus,Modiolus (Modiolusia)_neglectus,36.7,23,29.85,13.7,130,15,110,62.5,
+322,Mytilidae,Modiolus (Modiolusia),rectus,Modiolus (Modiolusia)_rectus,54.1,-5.1,24.5,59.2,220,0,15,,"Soft (sand, anchored by byssal mat, 0)"
+581,Modiolinae,Modiolus,americanus,Modiolus_americanus,27.9,-5.1,11.4,33,85,0,100,50,
+443,Mytilidae,Modiolus,aurum,Modiolus_aurum,-33.7,-33.7,-33.7,0,38,0,45,,submerged objects
+582,Modiolinae,Modiolus,capax,Modiolus_capax,36.6,-6.5,15.05,43.1,156,0,36,18,
+583,Modiolinae,Modiolus,eiseni,Modiolus_eiseni,27.9,-5.1,11.4,33,55,4,360,182,
+584,Modiolinae,Modiolus,tumbezensis,Modiolus_tumbezensis,27.9,-3.5,12.2,31.4,46,0,35,17.5,
+1518,Mactridae,Mulinia,byronensis,Mulinia_byronensis,-33,-55.5,-44.25,22.5,78,0,0,,
+1519,Mactridae,Mulinia,edulis,Mulinia_edulis,-2.2,-55,-28.6,52.8,73,0,0,,exposed sand
+1520,Mactridae,Mulinia,exabida,Mulinia_exabida,-36.5,-54,-45.25,17.5,73,,,,
+940,Mactridae,Mulinia,modesta,Mulinia_modesta,28.9,22.6,25.75,6.3,70,0,0,,
+1521,Mactridae,Mulinia,pallida,Mulinia_pallida,31.3,-13.8,8.75,45.1,93,0,48,,
+295,Mytilidae,Musculista,senhousia,Musculista_senhousia,49.9,31.8,40.85,18.1,35,0,20,,0
+296,Mytilidae,Musculus,discors,Musculus_discors,71,46.9,58.95,24.1,55,5,150,77.5,panarctic and circumboreal
+297,Mytilidae,Musculus,glacialis,Musculus_glacialis,71,48.4,59.7,22.6,40,25,274,149.5,panarctic
+298,Mytilidae,Musculus,niger,Musculus_niger,71,46.6,58.8,24.4,78,0,150,,"0, panarctic and circumboreal"
+299,Mytilidae,Musculus,phenax,Musculus_phenax,57.2,53.9,55.55,3.3,10,,,,0
+300,Mytilidae,Musculus,pygmaeus,Musculus_pygmaeus,38.3,35.2,36.75,3.1,3,,,,0
+301,Mytilidae,Musculus,taylori,Musculus_taylori,52.5,48.4,50.45,4.1,8,,,,0
+1129,Mydae,Mya,arenaria,Mya_arenaria,70.3,32.7,51.5,37.6,150,,,,0 zone
+1130,Mydae,Mya,baxteri,Mya_baxteri,64.5,55.2,59.85,9.3,200,10,100,55,mud or sand
+1131,Mydae,Mya,pseudoarenaria,Mya_pseudoarenaria,71.4,59.5,65.45,11.9,110,2,50,26,sand or mud
+1132,Mydae,Mya,truncata,Mya_truncata,71.4,48.4,59.9,23,70,0,100,50,mud or sand
+1207,Cuspidariidae,Myonera,garretti,Myonera_garretti,59.7,2.6,31.15,57.1,22,2156,4200,3178,Abyssal plain
+667,Ostreidae,Myrakeena,angelica,Myrakeena_angelica,31.1,10.9,21,20.2,100,0,50,25,
+996,Lasaeidae,Mysella,pedroana,Mysella_pedroana,37.7,32.3,35,5.4,13,0,30,15,0 zone
+997,Lasaeidae,Mysella,planata,Mysella_planata,71.4,53,62.2,18.4,11,10,717,363.5,
+552,Mytilinae,Mytella,charruana,Mytella_charruana,27.9,-4,11.95,31.9,80,0,,0,
+553,Mytilinae,Mytella,guyanensis,Mytella_guyanensis,31.4,-3.5,13.95,34.9,89,0,,0,
+554,Mytilinae,Mytella,speciosa,Mytella_speciosa,13.1,-4.7,4.2,17.8,140,0,,0,
+428,Mytilidae,Mytella,strigata,Mytella_strigata,27.9,-9.4,9.25,37.3,80,0,,,mud
+1176,Lyonsiidae,Mytillimeria,nuttalli,Mytillimeria_nuttalli,57.1,30.4,43.75,26.7,46.5,0,66,33,sponges
+1563,Dreissenidae,Mytilopsis,adamsi,Mytilopsis_adamsi,23.2,-9.1,7.05,32.3,25,,,,streams
+870,Dreissenidae,Mytilopsis,trautwineana,Mytilopsis_trautwineana,3.5,1.1,2.3,2.4,37,,,0,
+287,Mytilidae,Mytilus,californianus,Mytilus_californianus,59.2,-27.7,15.75,86.9,251,50,100,75,"Hard (rocky foreshores, 0)"
+429,Mytilidae,Mytilus,chilensis,Mytilus_chilensis,-12,-54.8,-33.4,42.8,78,0,,,
+290,Mytilidae,Mytilus,trossulus,Mytilus_trossulus,72,33.5,52.75,38.5,90,,,,"Hard (rocks and pilings, 0)"
+1345,Teredinidae,Nausitora,dryas,Nausitora_dryas,1,-3.5,-1.25,4.5,12,0,0,,Wood
+1575,Teredinidae,Nausitora,saulii,Nausitora_saulii,-12.1,-12.1,-12.1,0,9,,,,
+909,Lasaeidae,Neaeromya,californica,Neaeromya_californica,37.7,9.7,23.7,28,6,5,100,52.5,
+998,Lasaeidae,Neaeromya,compressa,Neaeromya_compressa,71.4,32.7,52.05,38.7,15,10,700,355,
+910,Lasaeidae,Neaeromya,jipajapa,Neaeromya_jipajapa,31.4,-1.4,15,32.8,13,0,60,30,
+911,Lasaeidae,Neaeromya,margarita,Neaeromya_margarita,31.4,8.5,19.95,22.9,15,8,20,14,
+912,Lasaeidae,Neaeromya,obliqua,Neaeromya_obliqua,31.4,-3.5,13.95,34.9,6,1,40,20.5,
+999,Lasaeidae,Neaeromya,rugifera,Neaeromya_rugifera,57.3,27.7,42.5,29.6,22,0,56,28,0 zone
+534,Neilonellidae,Neilonella,atossa,Neilonella_atossa,37.2,-5.8,15.7,43,9,1640,2700,2170,
+241,Neilonellidae,Neilonella,brunnea,Neilonella_brunnea,54.9,45,49.95,9.9,10,2500,3700,3100,
+242,Neilonellidae,Neilonella,kermadecensis,Neilonella_kermadecensis,44.8,36.6,40.7,8.2,9,4540,4883,4711.5,Abyssal Plain
+535,Neilonellidae,Neilonella,mexicana,Neilonella_mexicana,37.7,6.3,22,31.4,8,780,3060,1920,
+536,Neilonellidae,Neilonella,ritteri,Neilonella_ritteri,34.4,24.9,29.65,9.5,12,366,790,578,
+417,Neilonellidae,Neilonella,sulculata,Neilonella_sulculata,-28,-55,-41.5,27,15,10,300,155,
+1032,Cardiidae,Nemocardium,centifilosum,Nemocardium_centifilosum,58.7,27.7,43.2,31,25,30,150,90,
+1266,Neoleptonidae,Neolepton,chaneyi,Neolepton_chaneyi,0.34,-49,-24.33,49.34,2.5,10,25,17.5,Silty sand
+1556,Neoleptonidae,Neolepton,concentricum,Neolepton_concentricum,-41.7,-51.6,-46.65,9.9,3.8,5,100,52.5,"sand, broken shell"
+1557,Neoleptonidae,Neolepton,hupei,Neolepton_hupei,-41.8,-51.6,-46.7,9.8,5.4,15,286,150.5,
+1021,Neoleptonidae,Neolepton,salmonea,Neolepton_salmonea,53.5,25,39.25,28.5,5,20,60,40,rubble and rocks
+1267,Neoleptonidae,Neolepton,subtrigonum,Neolepton_subtrigonum,38.3,-4.1,17.1,42.4,4.5,0,164,82,Rubble
+754,Lucinidae,Neophysema,aphanes,Neophysema_aphanes,30.3,0.6,15.45,29.7,21,4,250,127,
+1008,Trapezidae,Neotrapezium,liratum,Neotrapezium_liratum,49,36.8,42.9,12.2,53,,,,
+1571,Jouannetiidae,Netastoma,darwinii,Netastoma_darwinii,-37.2,-41.8,-39.5,4.6,37,0,50,,
+1151,Pholadidae,Netastoma,japonicum,Netastoma_japonicum,59.5,48.5,54,11,25,0,276,138,shale and soft sandstone
+1152,Pholadidae,Netastoma,rostratum,Netastoma_rostratum,48.9,27.3,38.1,21.6,20,0,100,50,
+285,Limopsidae,Nipponolimopsis,decussata,Nipponolimopsis_decussata,52.3,32,42.15,20.3,6,219,388,303.5,
+686,Pectinidae,Nodipecten,magnificus,Nodipecten_magnificus,-0.3,-1.3,-0.8,1,210,10,46,28,
+687,Pectinidae,Nodipecten,subnodosus,Nodipecten_subnodosus,33.4,-4.7,14.35,38.1,203,0,110,55,
+636,Noetiidae,Noetia,magna,Noetia_magna,27.5,-1.8,12.85,29.3,80,18,53,35.5,
+637,Noetiidae,Noetia,reversa,Noetia_reversa,23.2,-4.1,9.55,27.3,70,0,73,36.5,
+1347,Teredinidae,Nototeredo,knoxi,Nototeredo_knoxi,1,-0.9,0.05,1.9,9,0,0,,Wood
+205,Nuculidae,Nucula (Lamellinucula),carlottensis,Nucula (Lamellinucula)_carlottensis,51.4,16.9,34.15,34.5,10,104,2000,1052,
+206,Nuculidae,Nucula (Lamellinucula),exigua,Nucula (Lamellinucula)_exigua,33.7,-3.7,15,37.4,6,10,140,75,
+204,Nuculidae,Nucula (Nucula),profundorum,Nucula (Nucula)_profundorum,48,-7,20.5,55,7,734,4134,2434,Abyssal plain
+490,Nuculidae,Nucula,carlottensis,Nucula_carlottensis,51.4,16.9,34.15,34.5,8,104,2000,1052,
+394,Nuculidae,Nucula,chrysocoma,Nucula_chrysocoma,16.9,-31.1,-7.1,48,7,734,4134,2434,
+488,Nuculidae,Nucula,declivis,Nucula_declivis,31.4,-3.7,13.85,35.1,5,5,55,30,
+491,Nuculidae,Nucula,exigua,Nucula_exigua,33.7,-3.7,15,37.4,6,10,600,305,
+396,Nuculidae,Nucula,fernandensis,Nucula_fernandensis,-33.5,-33.5,-33.5,0,5,220,280,250,
+492,Nuculidae,Nucula,iphigenia,Nucula_iphigenia,7.5,-3.8,1.85,11.3,35,404,474,439,
+397,Nuculidae,Nucula,pisum,Nucula_pisum,-7,-56,-31.5,49,5.4,2,286,144,sand and mud
+489,Nuculidae,Nucula,profundorum,Nucula_profundorum,48,-6.9,20.55,54.9,5,734,4134,2434,
+493,Nuculidae,Nucula,schencki,Nucula_schencki,27.9,15.8,21.85,12.1,2,13,45,29,
+219,Nuculanidae,Nuculana (Jupiteria),cellulita,Nuculana (Jupiteria)_cellulita,55.9,45.5,50.7,10.4,16,30,146,88,
+220,Nuculanidae,Nuculana (Jupiteria),elenensis,Nuculana (Jupiteria)_elenensis,34,-5.6,14.2,39.6,14,4,150,77,
+221,Nuculanidae,Nuculana (Jupiteria),penderi,Nuculana (Jupiteria)_penderi,57.1,23.2,40.15,33.9,15,20,500,260,
+222,Nuculanidae,Nuculana (Jupiteria),pontonia,Nuculana (Jupiteria)_pontonia,32.7,-0.6,16.05,33.3,18,1150,3000,2075,
+223,Nuculanidae,Nuculana (Jupiteria),taphria,Nuculana (Jupiteria)_taphria,39.5,28.2,33.85,11.3,20,10,100,55,
+213,Nuculanidae,Nuculana (nuculana),extenuata,Nuculana (nuculana)_extenuata,55,7.1,31.05,47.9,20,2000,2900,2450,
+215,Nuculanidae,Nuculana (nuculana),leonina,Nuculana (nuculana)_leonina,55,32.7,43.85,22.3,25,350,2500,1425,
+216,Nuculanidae,Nuculana (nuculana),minuta,Nuculana (nuculana)_minuta,71.4,33.3,52.35,38.1,18,4,1900,952,Panarctic and circumboreal
+217,Nuculanidae,Nuculana (nuculana),navisa,Nuculana (nuculana)_navisa,60.2,32.7,46.45,27.5,16,46,420,233,
+218,Nuculanidae,Nuculana (nuculana),pernula,Nuculana (nuculana)_pernula,71,36.7,53.85,34.3,25,20,1400,710,Panarctic and circumboreal
+511,Nuculanidae,Nuculana,conceptionis,Nuculana_conceptionis,56.5,28,42.25,28.5,30,300,2300,1300,
+506,Nuculanidae,Nuculana,cordyla,Nuculana_cordyla,7.2,0.6,3.9,6.6,9,589,733,661,
+509,Nuculanidae,Nuculana,costellata,Nuculana_costellata,31,8.2,19.6,22.8,25,15,130,72.5,
+508,Nuculanidae,Nuculana,hamata,Nuculana_hamata,54.8,29.5,42.15,25.3,12,20,1100,560,
+510,Nuculanidae,Nuculana,marella,Nuculana_marella,27.9,-3.1,12.4,31,35,15,130,72.5,
+1049,Veneridae,Nutricola,confusa,Nutricola_confusa,43.4,36.6,40,6.8,8,5,100,52.5,
+1050,Veneridae,Nutricola,cymata,Nutricola_cymata,34,25,29.5,9,7,16,90,53,
+1234,Veneridae,Nutricola,humilis,Nutricola_humilis,28.9,23.3,26.1,5.6,7,0,30,15,0
+1051,Veneridae,Nutricola,lordi,Nutricola_lordi,59.2,26.2,42.7,33,8,0,22,11,0 zone
+1052,Veneridae,Nutricola,ovalis,Nutricola_ovalis,39.5,27.7,33.6,11.8,10,20,150,85,
+1053,Veneridae,Nutricola,tantilla,Nutricola_tantilla,60.8,28.2,44.5,32.6,9,0,120,60,0 zone
+96,Psammobiidae,Nuttallia,nuttallii,Nuttallia_nuttallii,40.8,24.6,32.7,16.2,130,0,0,0,Sand and gravel
+1099,Psamobiidae,Nuttellia,obscurata,Nuttellia_obscurata,50.1,44.4,47.25,5.7,57,,,,0
+1584,Cuspidariidae,Octoporia,podobeda,Octoporia_podobeda,-24.03,-24.03,-24.03,0,7.4,2140,2140,2140,
+1000,Lasaeidae,Orobitella,californica,Orobitella_californica,37.7,26.1,31.9,11.6,6,5,100,52.5,
+539,Yoldiidae,Orthoyoldia,panamensis,Orthoyoldia_panamensis,29.7,-6.6,11.55,36.3,17,64,864,464,
+464,Ostreidae,Ostrea,chilensis,Ostrea_chilensis,-26.1,-49.1,-37.6,23,85,0,11,,
+656,Ostreidae,Ostrea,cocnhaphila,Ostrea_cocnhaphila,31.4,-3.5,13.95,34.9,80,0,100,50,
+343,Ostreidae,Ostrea,edulis,Ostrea_edulis,50,34.4,42.2,15.6,170,,,,
+657,Ostreidae,Ostrea,tubulifera,Ostrea_tubulifera,23.2,8.4,15.8,14.8,45,0,,0,
+1590,Parilimyidae,Panacca,chilensis,Panacca_chilensis,-33.6,-33.6,-33.6,0,21,130,180,155,
+1300,Corbulidae,Panamaicorbula,ventricosa,Panamaicorbula_ventricosa,25.7,-3.5,11.1,29.2,35,0,,,Mangrove swamps
+1167,Pandoridae,Pandora,bilirata,Pandora_bilirata,60.8,27.9,44.35,32.9,15,0,250,125,mud
+1585,Pandoridae,Pandora,braziliensis,Pandora_braziliensis,-14.2,-55,-34.6,40.8,30,10,665,337.5,
+1378,Pandoridae,Pandora,brevifrons,Pandora_brevifrons,7.4,7.4,7.4,0,22,,,,
+1168,Pandoridae,Pandora,filosa,Pandora_filosa,60.9,31.8,46.35,29.1,27,20,300,160,mud
+1169,Pandoridae,Pandora,glacialis,Pandora_glacialis,71,47.5,59.25,23.5,20,5,350,177.5,mud
+1381,Pandoridae,Pandora,granulata,Pandora_granulata,29.9,22.2,26.05,7.7,10,15,80,47.5,Sand and mud
+1166,Pandoridae,Pandora,punctata,Pandora_punctata,49.9,26.2,38.05,23.7,45,0,50,25,mud
+1379,Pandoridae,Pandora,rachaelae,Pandora_rachaelae,31,18.8,24.9,12.2,14,0,60,30,Sand
+1382,Pandoridae,Pandora,radiata,Pandora_radiata,33.5,-3.5,15,37,31,20,170,95,
+1383,Pandoridae,Pandora,sarahae,Pandora_sarahae,31,24.6,27.8,6.4,12,2,10,6,Sand
+1380,Pandoridae,Pandora,uncifera,Pandora_uncifera,30.3,-0.9,14.7,31.2,13,5,66,35.5,
+1170,Pandoridae,Pandora,wardiana,Pandora_wardiana,71.4,48.4,59.9,23,55,40,200,120,mud
+1143,Hiatellidae,Panomya,ampla,Panomya_ampla,71.4,47.5,59.45,23.9,90,10,150,80,sand and gravel
+1144,Hiatellidae,Panomya,norvegica,Panomya_norvegica,71.4,33.4,52.4,38,110,20,640,330,sandy mud
+1145,Hiatellidae,Panopea,abrupta,Panopea_abrupta,57.6,33.6,45.6,24,200,0,100,50,mud
+1349,Hiatellidae,Panopea,globosa,Panopea_globosa,31,23.3,27.15,7.7,164,10,100,55,Sandy mud
+190,Veneridae,Paphonotia,elliptica,Paphonotia_elliptica,23.2,-18.5,2.35,41.7,40,0,30,15,Rock
+1542,Veneridae,Paphonotia,fernandesiana,Paphonotia_fernandesiana,-33.6,-33.6,-33.6,0,8,20,35,27.5,
+808,Cardiidae,Papyridea,aspersa,Papyridea_aspersa,31.4,-2.2,14.6,33.6,52,0,160,80,
+809,Cardiidae,Papyridea,crockeri,Papyridea_crockeri,28.4,-3.5,12.45,31.9,60,30,175,102.5,
+810,Cardiidae,Papyridea,hiulcum,Papyridea_hiulcum,25.8,-4.5,10.65,30.3,70,0,12,6,
+1154,Pholadidae,Paraphoias,californica,Paraphoias_californica,38.3,26.2,32.25,12.1,150,0,10,5,clay and sandstone
+1312,Pholadinae,Parapholas,acuminata,Parapholas_acuminata,30.5,-3.9,13.3,34.4,62,0,25,12.5,Sedimentary and calcerous rocks
+1313,Pholadinae,Parapholas,calva,Parapholas_calva,27.9,0.9,14.4,27,50,0,45,22.5,Rocks
+1457,Thyasiridae,Parathyasira,magellanica,Parathyasira_magellanica,-42.4,-55,-48.7,12.6,8,30,522,276,
+376,Propeamussiidae,Parvamussium,alaskense,Parvamussium_alaskense,60,32.7,46.35,27.3,25,15,1530,772.5,"Soft (usually byssate on sand and gravel, associated with silicious sponges or ascidians)"
+383,Lucinidae,Parvilucina,approximata,Parvilucina_approximata,34.4,9,21.7,25.4,6,0,1024,,0
+1452,Lucinidae,Parvilucina,mazatlanica,Parvilucina_mazatlanica,31.3,-12.1,9.6,43.4,5,4,100,52,
+756,Lucinidae,Parvilucina,tennuisculpta,Parvilucina_tennuisculpta,60.9,19.3,40.1,41.6,12,0,500,250,
+361,Pectinidae,Patinopecten,caurinus,Patinopecten_caurinus,59,36.3,47.65,22.7,150,10,200,105,Soft (mud and sand)
+757,Lucinidae,Pegophysema,blanquita,Pegophysema_blanquita,30.5,17.7,24.1,12.8,90,18,100,59,
+1155,Pholadidae,Penitella,conradi,Penitella_conradi,49.8,27.7,38.75,22.1,15,0,20,10,shale
+1314,Pholadinae,Penitella,fitchi,Penitella_fitchi,36.7,26.1,31.4,10.6,60,0,60,30,Shale and siliceous chert
+1157,Pholadidae,Penitella,hopkinsi,Penitella_hopkinsi,60,55.6,57.8,4.4,45,,,,"0, shale ad clay"
+1158,Pholadidae,Penitella,penita,Penitella_penita,60.9,26.2,43.55,34.7,95,0,10,5,"sandstone, clay and shale"
+1159,Pholadidae,Penitella,richardsoni,Penitella_richardsoni,49.2,29.8,39.5,19.4,60,0,5,2.5,shale and siltstone
+1160,Pholadidae,Penitella,turnerae,Penitella_turnerae,46.9,37.1,42,9.8,120,0,5,2.5,sandstone
+191,Veneridae,Periglypta,multicostata,Periglypta_multicostata,30.3,-4.2,13.05,34.5,137,0,15,7.5,Sand
+1190,Periplomatidae,Periploma,aleuticum,Periploma_aleuticum,71.4,58.6,65,12.8,42,10,100,55,soft mud
+1189,Periplomatidae,Periploma,discus,Periploma_discus,36.7,9.6,23.15,27.1,45,20,100,60,sand
+1593,Periplomatidae,Periploma,hendrickxi,Periploma_hendrickxi,25.4,-7.8,8.8,33.2,21,720,1030,875,
+1188,Periplomatidae,Periploma,planiusculum,Periploma_planiusculum,34.5,-4.1,15.2,38.6,65,0,20,10,mud
+1191,Periplomatidae,Periploma,rosewateri,Periploma_rosewateri,44.7,37.4,41.05,7.3,15,600,1025,812.5,mud
+435,Mytilidae,Perumytilus,purpuratus,Perumytilus_purpuratus,-3.5,-36.6,-20.05,33.1,50,0,0,,rocks
+399,Solemyidae,Petrasma,pervernicosa,Petrasma_pervernicosa,58,-7.7,25.15,65.7,63,40,1510,775,
+1271,Petricolidae,Petricola,botula,Petricola_botula,23.3,-2.2,10.55,25.5,16,0,,,0 rock and clay
+1275,Petricolidae,Petricola,californiensis,Petricola_californiensis,36.6,16.6,26.6,20,42,0,64,32,"Driftwood, kelp, annelid tubes"
+1272,Petricolidae,Petricola,carditoides,Petricola_carditoides,57,26.2,41.6,30.8,63,0,46,23,Rock
+1282,Petricolidae,Petricola,cognata,Petricola_cognata,31.3,-3.5,13.9,34.8,80,0,15,7.5,Soft
+1276,Petricolidae,Petricola,concinna,Petricola_concinna,11.8,-4.1,3.85,15.9,21,0,18,9,0
+1558,Petricolidae,Petricola,dactylus,Petricola_dactylus,-37.2,-53.2,-45.2,16,71,0,20,,
+1277,Petricolidae,Petricola,denticulata,Petricola_denticulata,31.4,-6.8,12.3,38.2,42,0,22,11,Soft rock
+1278,Petricolidae,Petricola,exarata,Petricola_exarata,27.9,-3.5,12.2,31.4,15,0,,,Rock crevices
+1279,Petricolidae,Petricola,hertzana,Petricola_hertzana,34,24.6,29.3,9.4,7,0,27,13.5,Algae
+1273,Petricolidae,Petricola,insignis,Petricola_insignis,31.3,-2.2,14.55,33.5,44,0,32,16,Calcerous substrata
+1274,Petricolidae,Petricola,linguafelis,Petricola_linguafelis,23.7,-3.7,10,27.4,7,0,20,10,Mud and rock
+1560,Petricolidae,Petricola,olssoni,Petricola_olssoni,-3.9,-23.7,-13.8,19.8,30,0,3,,nestling on the underside of rocks
+1561,Petricolidae,Petricola,ramirezi,Petricola_ramirezi,-33.27,-33.27,-33.27,0,16,0,0,,nestling inside the dead shells of barnacle
+1562,Petricolidae,Petricola,rugosa,Petricola_rugosa,-6.6,-55.5,-31.05,48.9,50,0,0,,
+1281,Petricolidae,Petricola,scotti,Petricola_scotti,9,-2.2,3.4,11.2,19,0,,,Algae
+1062,Petricolidae,Petricolaria,pholadiformis,Petricolaria_pholadiformis,46.6,33.6,40.1,13,71,,,,"Clay, 0 zone"
+461,Philobryidae,Philobrya,aequivalvis,Philobrya_aequivalvis,-33.7,-33.7,-33.7,0,4.3,20,35,27.5,sand and coral
+462,Philobryidae,Philobrya,brattstromi,Philobrya_brattstromi,-33,-43.5,-38.25,10.5,5.8,30,183,106.5,
+644,Philobryidae,Philobrya,setosa,Philobrya_setosa,60.2,1.4,30.8,58.8,8,0,50,25,
+1316,Pholadinae,Pholadidea,melanura,Pholadidea_melanura,27.9,-2.1,12.9,30,56,0,25,12.5,Rocks
+1317,Pholadinae,Pholadidea,quadra,Pholadidea_quadra,21.8,-3.9,8.95,25.7,27,,,,Weakly consolidated rock
+1318,Pholadinae,Pholadidea,tubifera,Pholadidea_tubifera,9.9,-0.9,4.5,10.8,38,0,40,20,Shale
+1306,Pholadinae,Pholas,chiloensis,Pholas_chiloensis,31.3,-41.9,-5.3,73.2,131,0,150,75,Soft rock and wood
+926,Vesicomyidae,Phreagena,kilmeri,Phreagena_kilmeri,53,28,40.5,25,85,800,1755,1277.5,
+645,Pteriidae,Pinctada,mazatlantica,Pinctada_mazatlantica,29,-5.1,11.95,34.1,150,0,25,12.5,
+654,Pinnidae,Pinna,rugosa,Pinna_rugosa,31.4,-5.6,12.9,37,430,0,100,50,
+1242,Veneridae,Pitar,aletes,Pitar_aletes,28.3,9.5,18.9,18.8,54,15,110,62.5,
+1237,Veneridae,Pitar,berryi,Pitar_berryi,27.9,-2.2,12.85,30.1,55,7,40,23.5,
+1238,Veneridae,Pitar,consanguieneus,Pitar_consanguieneus,28.2,3.5,15.85,24.7,47,0,44,22,0
+1244,Veneridae,Pitar,fluctuatus,Pitar_fluctuatus,-2.1,-2.1,-2.1,0,18,,,,
+1239,Veneridae,Pitar,helenae,Pitar_helenae,31.4,-0.4,15.5,31.8,33,0,45,22.5,0
+1047,Veneridae,Pitar,newcombianus,Pitar_newcombianus,36.6,32.9,34.75,3.7,45,45,220,132.5,
+1240,Veneridae,Pitar,omissa,Pitar_omissa,20.5,11.3,15.9,9.2,12,,,,
+1241,Veneridae,Pitar,perfragilis,Pitar_perfragilis,31,-3.1,13.95,34.1,28,6,183,94.5,
+1243,Veneridae,Pitar,pollicaris,Pitar_pollicaris,28.9,-5.1,11.9,34,67,0,40,20,0
+1547,Veneridae,Pitar,pura,Pitar_pura,-7,-14.3,-10.65,7.3,28,18,28,23,
+1548,Veneridae,Pitar,tomeana,Pitar_tomeana,-36.6,-36.6,-36.6,0,23,18,96,57,mud
+671,Anomiidae,Placunanomia,cumingii,Placunanomia_cumingii,28.9,-3.6,12.65,32.5,100,0,100,50,
+672,Anomiidae,Placunanomia,panamensis,Placunanomia_panamensis,27.9,9,18.45,18.9,70,2,3,2.5,
+851,Sportellidae,Planktomya,cf. henseni,Planktomya_cf. henseni,20.8,-1.3,9.75,22.1,5,0,70,35,
+1283,Myidae,Platyodon,australis,Platyodon_australis,1,1,1,0,6,,,,
+1133,Mydae,Platyodon,cancellatus,Platyodon_cancellatus,53.6,28.3,40.95,25.3,75,0,20,10,"clay, mudstone and soft sandstone"
+1208,Cuspidariidae,Plectodon,scaber,Plectodon_scaber,34.5,-3.5,15.5,38,25,20,250,135,sand or mud
+758,Lucinidae,Pleurolucina,leucocymoides,Pleurolucina_leucocymoides,31,-3.1,13.95,34.1,27,9,150,79.5,
+759,Lucinidae,Pleurolucina,taylori,Pleurolucina_taylori,25.8,21.3,23.55,4.5,15,0,183,91.5,
+760,Lucinidae,Pleurolucina,undata,Pleurolucina_undata,30.3,22.9,26.6,7.4,19,0,60,30,
+720,Plicatulidae,Plicatula,penicillata,Plicatula_penicillata,27.9,-2.2,12.85,30.1,24,0,60,30,
+721,Plicatulidae,Plicatula,spondylopsis,Plicatula_spondylopsis,31,-3.6,13.7,34.6,50,0,80,40,
+722,Plicatulidae,Plicatulostrea,anomioides,Plicatulostrea_anomioides,30.3,13.5,21.9,16.8,42,0,,0,
+927,Vesicomyidae,Pliocardia,donacia,Pliocardia_donacia,7.1,79.7,,,22,2325,,1162.5,
+928,Vesicomyidae,Pliocardia,ovalis,Pliocardia_ovalis,33.5,6.3,19.9,27.2,40,1170,3070,2120,
+929,Vesicomyidae,Pliocardia,stearnsii,Pliocardia_stearnsii,48.4,27.5,37.95,20.9,46,370,3070,1720,
+379,Anomiidae,Pododesmus (Monia),macrochisma,Pododesmus (Monia)_macrochisma,70.6,23.5,47.05,47.1,128,0,90,,"Hard (attached to rocks, pilings, large red abalone, 0)"
+378,Anomiidae,Pododesmus (Pododesmus),pernoides,Pododesmus (Pododesmus)_pernoides,38.5,33.4,35.95,5.1,75,2,20,11,Hard (attached to other shells)
+673,Anomiidae,Pododesmus,foliatus,Pododesmus_foliatus,30,-4.5,12.75,34.5,95,0,200,100,
+674,Anomiidae,Pododesmus,macrochisma,Pododesmus_macrochisma,70.6,22.4,46.5,48.2,128,0,85,42.5,
+1216,Verticordiidae,Policordia,pilula,Policordia_pilula,59.1,44.9,52,14.2,7,1230,2980,2105,Abyssal plain
+512,Nuculanidae,Politoleda,polita,Politoleda_polita,15.8,6,10.9,9.8,48,0,50,25,
+853,Cyrenidae,Polymesoda,acuta,Polymesoda_acuta,10.2,1,5.6,9.2,41,0,,0,
+854,Cyrenidae,Polymesoda,anomala,Polymesoda_anomala,13.2,-5.7,3.75,18.9,54,0,,0,
+857,Cyrenidae,Polymesoda,inflata,Polymesoda_inflata,23.2,-3.7,9.75,26.9,74,0,,0,
+858,Cyrenidae,Polymesoda,meridionalis,Polymesoda_meridionalis,-2.5,-5.1,-3.8,2.6,34,,,0,
+859,Cyrenidae,Polymesoda,mexicana,Polymesoda_mexicana,25.6,9,17.3,16.6,48,0,30,15,
+861,Cyrenidae,Polymesoda,notabilis,Polymesoda_notabilis,12.5,3.5,8,9,59,0,,0,
+862,Cyrenidae,Polymesoda,obscura,Polymesoda_obscura,16.2,4,10.1,12.2,48,0,,0,
+863,Cyrenidae,Polymesoda,ordinaria,Polymesoda_ordinaria,15.1,0.3,7.7,14.8,44,,,0,
+864,Cyrenidae,Polymesoda,powelli,Polymesoda_powelli,22.4,16,19.2,6.4,36,0,,0,
+865,Cyrenidae,Polymesoda,radiata,Polymesoda_radiata,13,-1,6,14,52,,,0,
+1218,Poromyidae,Poromya,houbricki,Poromya_houbricki,45.5,32,38.75,13.5,15,95,110,102.5,
+254,Yoldiidae,Portlandia,aestuariorum,Portlandia_aestuariorum,70.4,70.4,70.4,0,17,10,100,55,
+255,Yoldiidae,Portlandia,arctica,Portlandia_arctica,71,56.5,63.75,14.5,20,10,500,255,
+256,Yoldiidae,Portlandia,intermedia,Portlandia_intermedia,71,64,67.5,7,18,50,450,250,
+257,Yoldiidae,Portlandia,lenticula,Portlandia_lenticula,71,71,71,0,8,50,350,200,
+914,Lasaeidae,Pristes,oblongus,Pristes_oblongus,36.6,23.2,29.9,13.4,4,0,12,6,
+715,Propeamussiidae,Propeamussium,malpelonium,Propeamussium_malpelonium,44.9,6,25.45,38.9,20,1900,5440,3670,
+364,Propeamussiidae,Propeamussium,meridionale,Propeamussium_meridionale,44.9,-8.7,18.1,53.6,20,1900,4882,3391,abyssal plain
+404,Nuculanidae,Propeleda,hickmanae,Propeleda_hickmanae,-5.8,-33.1,-19.45,27.3,13,485,1895,1190,
+403,Nuculanidae,Propeleda,loshka,Propeleda_loshka,7.1,-32.5,-12.7,39.6,17,864,2300,1582,
+1041,Veneridae,Protothaca,laciniata,Protothaca_laciniata,36.8,26.8,31.8,10,80,0,5,2.5,sand or mud
+1042,Veneridae,Protothaca,staminea,Protothaca_staminea,60.8,22.9,41.85,37.9,80,0,10,5,sand or sandy mud
+1043,Veneridae,Protothaca,tenerrima,Protothaca_tenerrima,57.1,27.6,42.35,29.5,160,0,30,15,
+97,Psammobiidae,Psammotella,bertini,Psammotella_bertini,28,-4.1,11.95,32.1,93,0,17,8.5,
+1488,Tellinidae,Psammotreta,pura,Psammotreta_pura,31.4,-8.8,11.3,40.2,55,0,80,,
+18,Tellinidae,Psammotretra,asthenodon,Psammotretra_asthenodon,13.3,-3.5,4.9,16.8,77,0,0,0,Mud
+14,Tellinidae,Psammotretra,aurora,Psammotretra_aurora,31.4,-1.6,14.9,33,33,0,33,16.5,
+19,Tellinidae,Psammotretra,cognata,Psammotretra_cognata,31.3,-5.9,12.7,37.2,80,0,24,12,Sand and hard substrates
+15,Tellinidae,Psammotretra,columbiensis,Psammotretra_columbiensis,13.2,-3.8,4.7,17,65,5,26,15.5,Mud
+20,Tellinidae,Psammotretra,dombei,Psammotretra_dombei,27.9,-3.5,12.2,31.4,70,0,0,0,
+21,Tellinidae,Psammotretra,excavata,Psammotretra_excavata,25.6,-3.5,11.05,29.1,69,0,18,9,"Mud, silty sand and shell rubble"
+16,Tellinidae,Psammotretra,grandis,Psammotretra_grandis,22.4,-3.5,9.45,25.9,91,20,90,55,
+22,Tellinidae,Psammotretra,obesa,Psammotretra_obesa,34.5,24.6,29.55,9.9,112,0,50,,Sand
+17,Tellinidae,Psammotretra,pura,Psammotretra_pura,31.4,17,24.2,14.4,55,0,29,14.5,
+704,Palliolinae,Pseudamussium,fasciculatum,Pseudamussium_fasciculatum,27.9,-3.8,12.05,31.7,29,31,333,182,
+987,Chamidae,Pseudochama,exgogyra,Pseudochama_exgogyra,38.3,22.9,30.6,15.4,40,0,25,12.5,0 zone
+988,Chamidae,Pseudochama,granti,Pseudochama_granti,48.5,29.1,38.8,19.4,27,46,256,151,rocks/shells
+419,Neilonellidae,Pseudoneilonella,atossa,Pseudoneilonella_atossa,37.2,-13.4,11.9,50.6,9,805,2700,1752.5,
+420,Neilonellidae,Pseudoneilonella,virens,Pseudoneilonella_virens,-40.2,-53,-46.6,12.8,6,70,821,445.5,
+1333,Teredinidae,Psiloteredo,healdi,Psiloteredo_healdi,9,9,9,0,10,0,0,,Wood
+646,Pteriidae,Pteria,sterna,Pteria_sterna,34.4,-11.8,11.3,46.2,152,0,25,12.5,
+761,Lucinidae,Radiolucina,cancellaris,Radiolucina_cancellaris,31.3,-12.1,9.6,43.4,8,0,212,106,
+947,Mactridae,Raeta,plicatella,Raeta_plicatella,31,7.6,19.3,23.4,79,0,40,20,
+1524,Anatinellidae,Raeta,undulata,Raeta_undulata,33.7,-21.3,6.2,55,110,0,20,,sand of protected bays and foreshores
+942,Mactridae,Rangia,mendica,Rangia_mendica,23.4,19.1,21.25,4.3,25,0,15,7.5,
+1510,Cyamiidae,Reloncavia,chilenica,Reloncavia_chilenica,-39.4,-41.4,-40.4,2,5.9,0,0,,fine and coarse sand
+1554,Veneridae,Retrotapes,exalbidus,Retrotapes_exalbidus,-41.9,-56,-48.95,14.1,106,5,150,77.5,sand and mud
+1555,Veneridae,Retrotapes,lenticularis,Retrotapes_lenticularis,-14.3,-41.8,-28.05,27.5,77,6,22,14,coarse sand
+1002,Lasaeidae,Rhamphidonta,retifera,Rhamphidonta_retifera,49.8,34,41.9,15.8,15,0,25,12.5,0 zone
+1209,Cuspidariidae,Rhinoclama,filatovae,Rhinoclama_filatovae,51.5,31.3,41.4,20.2,16,3500,5140,4320,fine mud
+1003,Lasaeidae,Rochefortia,coani,Rochefortia_coani,43.3,32.7,38,10.6,5,0,1000,500,
+1004,Lasaeidae,Rochefortia,compressa,Rochefortia_compressa,34.4,-3.7,15.35,38.1,10,5,40,22.5,
+1005,Lasaeidae,Rochefortia,grippi,Rochefortia_grippi,49.8,32.7,41.25,17.1,5,10,120,65,
+1006,Lasaeidae,Rochefortia,mortoni,Rochefortia_mortoni,35.1,32.7,33.9,2.4,5,45,160,102.5,
+1007,Lasaeidae,Rochefortia,tumida,Rochefortia_tumida,71.4,31.3,51.35,40.1,5,0,973,486.5,
+108,Semelidae,Rochefortina,sandwichensis,Rochefortina_sandwichensis,10.3,10.3,10.3,0,5,10,20,15,Sand
+513,Nuculanidae,Saccella,acapulcensis,Saccella_acapulcensis,31.4,1,16.2,30.4,14,4,200,102,
+514,Nuculanidae,Saccella,acrita,Saccella_acrita,16,7.5,11.75,8.5,6,17,113,65,
+405,Nuculanidae,Saccella,cuneata,Saccella_cuneata,-14.3,-40.9,-27.6,26.6,12,26,280,153,"sand, muddy sand"
+515,Nuculanidae,Saccella,eburnea,Saccella_eburnea,25.3,-4.7,10.3,30,17,10,112,61,
+516,Nuculanidae,Saccella,elenensis,Saccella_elenensis,20.8,-5.6,7.6,26.4,14,15,30,22.5,
+517,Nuculanidae,Saccella,fastigata,Saccella_fastigata,27.9,5.9,16.9,22,40,9,94,51.5,
+518,Nuculanidae,Saccella,hindsii,Saccella_hindsii,27.9,7.6,17.75,20.3,15,16,100,58,
+519,Nuculanidae,Saccella,impar,Saccella_impar,31.4,-3.1,14.15,34.5,19,3,80,41.5,
+520,Nuculanidae,Saccella,laeviradius,Saccella_laeviradius,31.4,-3.7,13.85,35.1,8,7,100,53.5,
+521,Nuculanidae,Saccella,penderi,Saccella_penderi,57.1,27.9,42.5,29.2,16,20,500,260,
+663,Ostreidae,Saccostrea,palmula,Saccostrea_palmula,31.4,-5.9,12.75,37.3,75,,,0,
+98,Psammobiidae,Sanguinolaria,ovalis,Sanguinolaria_ovalis,27.9,7.3,17.6,20.6,34,0,38,19,
+99,Psammobiidae,Sanguinolaria,tellinoides,Sanguinolaria_tellinoides,30.9,0.4,15.65,30.5,75,0,14,7,
+100,Psammobiidae,Sanguinolaria,tenuis,Sanguinolaria_tenuis,0.5,-1.8,-0.65,2.3,34,0,0,0,
+1146,Hiatellidae,Saxicavella,nybakkeni,Saxicavella_nybakkeni,37.7,32.7,35.2,5,10,31,61,46,
+1147,Hiatellidae,Saxicavella,pacifica,Saxicavella_pacifica,49.8,32.7,41.25,17.1,8,0,100,50,cobbles
+1054,Veneridae,Saxidomus,gigantea,Saxidomus_gigantea,65.6,37,51.3,28.6,136,0,40,20,mud or sandy mud
+874,Galeommatidae,Scintilla,dubia,Scintilla_dubia,27.9,-3.1,12.4,31,8,0,100,50,
+127,Semelidae,Semele,barbarae,Semele_barbarae,27.2,2.7,14.95,24.5,54,0,101,50.5,
+109,Semelidae,Semele,bicolor,Semele_bicolor,30.2,-4.1,13.05,34.3,31,0,27,13.5,Sand
+110,Semelidae,Semele,californica,Semele_californica,29.8,24.9,27.35,4.9,44,0,70,35,Rubble
+1501,Semelidae,Semele,corrugata,Semele_corrugata,-2.2,-14.2,-8.2,12,98,0,9,,sand among rocks
+120,Semelidae,Semele,craneana,Semele_craneana,31.1,18.3,24.7,12.8,42,32,183,107.5,Sand and mud
+112,Semelidae,Semele,decisa,Semele_decisa,34.6,22.9,28.75,11.7,120,0,46,23,Sand and rubble
+113,Semelidae,Semele,elliptica,Semele_elliptica,12.7,-3.5,4.6,16.2,76,0,0,0,Sand and mud
+114,Semelidae,Semele,flavescens,Semele_flavescens,31.3,-4.7,13.3,36,69,0,5,2.5,Sand and rubble
+121,Semelidae,Semele,formosa,Semele_formosa,28.4,-2.2,13.1,30.6,77,0,100,50,Sand and rubble
+130,Semelidae,Semele,hanleyi,Semele_hanleyi,31.4,19.5,25.45,11.9,28,0,150,75,Sand and mud
+1502,Semelidae,Semele,iscovichorum,Semele_iscovichorum,-6.57,-6.9,-6.735,0.33,10,1.5,45,23.25,sand among rocks and coarse sand
+133,Semelidae,Semele,jamesi,Semele_jamesi,30.3,1.6,15.95,28.7,7,4,161,82.5,Sand amongst rocks
+128,Semelidae,Semele,jovis,Semele_jovis,31.5,9.7,20.6,21.8,71,0,100,50,Sand
+134,Semelidae,Semele,laevis,Semele_laevis,27.9,3.6,15.75,24.3,89,0,27,13.5,Sand and mud
+115,Semelidae,Semele,lenticularis,Semele_lenticularis,31.4,-3.9,13.75,35.3,30,0,44,22,Rubble
+122,Semelidae,Semele,pallida,Semele_pallida,27.9,-3.5,12.2,31.4,41,13,128,70.5,Sand and mud
+116,Semelidae,Semele,pilsbryi,Semele_pilsbryi,27.9,-2,12.95,29.9,54,0,100,50,Sand and rock
+1104,Semelidae,Semele,pulchra,Semele_pulchra,33.8,-3.7,15.05,37.5,35,0,110,55,"mud, sand, gravel or rubble"
+123,Semelidae,Semele,pupurascens,Semele_pupurascens,27.6,-2.3,12.65,29.9,34,0,78,39,Sand and rubble
+129,Semelidae,Semele,rosea,Semele_rosea,28.9,-3.5,12.7,32.4,83,0,37,18.5,Sand
+117,Semelidae,Semele,rubropicta,Semele_rubropicta,59.5,27.1,43.7,31.6,52,0,100,50,Rubble
+125,Semelidae,Semele,rupicola,Semele_rupicola,37.7,22.9,30.3,14.8,53,0,83,41.5,
+126,Semelidae,Semele,rupium,Semele_rupium,5.6,-1.3,2.15,6.9,38,1,73,37,Coral rubble
+1503,Semelidae,Semele,solida,Semele_solida,-9.1,-51.5,-30.3,42.4,90,0,25,,
+118,Semelidae,Semele,sowerbyi,Semele_sowerbyi,0.3,-1,-0.35,1.3,60,0,13,6.5,
+119,Semelidae,Semele,tortuosa,Semele_tortuosa,27.9,-2,12.95,29.9,62,0,100,50,Sand and rock
+124,Semelidae,Semele,venusta,Semele_venusta,36.6,-3.8,16.4,40.4,28,0,200,100,Sand and rubble
+132,Semelidae,Semele,verrucosa,Semele_verrucosa,31.5,2,16.75,29.5,27,0,128,64,Sand and mud
+135,Semelidae,Semelina,campbellorum,Semelina_campbellorum,29.1,-6.9,11.1,36,7,5,100,52.5,
+136,Semelidae,Semelina,subqadrata,Semelina_subqadrata,27.9,-2.2,12.85,30.1,7,0,220,110,
+557,Mytilinae,Semimytilus,algosus,Semimytilus_algosus,-1,-36.6,-18.8,35.6,69,0,9,4.5,
+587,Septiferinae,Septifer,bifurcatus,Septifer_bifurcatus,36.6,22.9,29.75,13.7,41,0,30,15,
+588,Septiferinae,Septifer,zeteki,Septifer_zeteki,30.3,5.6,17.95,24.7,11,0,90,45,
+1026,Cardiidae,Serripes,groenlandicus,Serripes_groenlandicus,71,48,59.5,23,112,0,80,40,0 zone
+1027,Cardiidae,Serripes,laperousii,Serripes_laperousii,71.4,56.8,64.1,14.6,137,2,80,41,
+1028,Cardiidae,Serripes,notabillis,Serripes_notabillis,60.8,55.2,58,5.6,92,50,216,133,
+212,Pristiglomidae,Setigloma,japonica,Setigloma_japonica,57.6,44.8,51.2,12.8,6,3000,5240,4120,Abyssal plain
+638,Noetiidae,Sheldonella,delgada,Sheldonella_delgada,27.9,-3.1,12.4,31,22,27,100,63.5,
+264,Siliculidae,Silicula,alleni,Silicula_alleni,31.2,31.2,31.2,0,9,3650,3650,3650,
+265,Siliculidae,Silicula,sandersi,Silicula_sandersi,45,45,45,0,12,5180,5180,5180,Abyssal Plain
+1116,Pharidae,Siliqua,alta,Siliqua_alta,72,34.5,53.25,37.5,200,0,85,42.5,sand and sandy mud
+1363,Pharidae,Siliqua,lucida,Siliqua_lucida,35.3,25.3,30.3,10,45,0,40,20,Mud and sand
+1118,Pharidae,Siliqua,patula,Siliqua_patula,59.2,35.4,47.3,23.8,190,0,55,27.5,sand
+943,Mactridae,Simomactra,dolabriformis,Simomactra_dolabriformis,31.3,0.9,16.1,30.4,94,,,0,
+1124,Mactridae,Simomactra,falcata,Simomactra_falcata,54.2,30.5,42.35,23.7,90,0,50,25,sand
+1125,Mactridae,Simomactra,planulata,Simomactra_planulata,38,27.9,32.95,10.1,80,0,95,47.5,sand and mud
+566,Crenellinae,Solamen,columbianum,Solamen_columbianum,60,22.3,41.15,37.7,15,20,500,260,
+303,Mytilidae,Solamen,leanum,Solamen_leanum,59.5,52,55.75,7.5,8,18,22,20,
+567,Crenellinae,Solamen,megas,Solamen_megas,33.5,7.9,20.7,25.6,30,20,356,188,
+876,Galeommatidae,Solecardia,eburnea,Solecardia_eburnea,31.4,9,20.2,22.4,30,0,45,22.5,
+877,Galeommatidae,Solecardia,grovesi,Solecardia_grovesi,29.5,24.4,26.95,5.1,13,15,55,35,
+878,Galeommatidae,Solecardia,venada,Solecardia_venada,8.9,-0.3,4.3,9.2,9,0,30,15,
+137,Solecurtidae,Solecurtis,broggii,Solecurtis_broggii,-0.9,-5.9,-3.4,5,106,64,73,68.5,
+138,Solecurtidae,Solecurtis,guaymasensis,Solecurtis_guaymasensis,33.4,-1.3,16.05,34.7,61,7,110,58.5,
+201,Solemyidae,Solemya (Petrasma),valvulus,Solemya (Petrasma)_valvulus,36.7,20.5,28.6,16.2,20,0,360,,Soft (fine sediment)
+496,Solemyidae,Solemya,panamensis,Solemya_panamensis,31.3,-6.7,12.3,38,39,20,235,127.5,
+497,Solemyidae,Solemya,pervernicosa,Solemya_pervernicosa,58,-7.7,25.15,65.7,63,40,1510,775,
+200,Solemyidae,Solemya,reidi,Solemya_reidi,49.8,32.7,41.25,17.1,60,40,600,320,
+495,Solemyidae,Solemya,valvulus,Solemya_valvulus,36.7,19.1,27.9,17.6,22,0,360,180,
+1350,Solenidae,Solen,crockeri,Solen_crockeri,13.3,8.1,10.7,5.2,42,5,96,50.5,"Sand, mud, crushed shell, mangrove leaves"
+1577,Solenidae,Solen,gaudichaudii,Solen_gaudichaudii,-27.3,-37.2,-32.25,9.9,120,0,0,,
+1351,Solenidae,Solen,gemmelli,Solen_gemmelli,31.7,27.9,29.8,3.8,63,0,90,45,Sand flats
+1352,Solenidae,Solen,mexicanus,Solen_mexicanus,16,12,14,4,60,,,,
+1353,Solenidae,Solen,oerstedii,Solen_oerstedii,10,10,10,0,69,,,,
+1354,Solenidae,Solen,pazensis,Solen_pazensis,24.2,15.8,20,8.4,58,0,13,6.5,
+1355,Solenidae,Solen,pfeifferi,Solen_pfeifferi,31,-3.5,13.75,34.5,49,0,40,20,
+1356,Solenidae,Solen,rostriformis,Solen_rostriformis,35.4,-3.5,15.95,38.9,70,0,62,31,Mud
+1358,Solenidae,Solen,rudis,Solen_rudis,11.8,-3.5,4.15,15.3,160,0,0,,0
+1114,Solenidae,Solen,sicarius,Solen_sicarius,54,30.4,42.2,23.6,103,,,,sand and mud
+702,Chlamydinae,Spathochlamys,vestalis,Spathochlamys_vestalis,33.4,-4.3,14.55,37.7,17,2,160,81,
+1285,Myidae,Sphenia,fragilis,Sphenia_fragilis,34.6,-3.7,15.45,38.3,13,0,65,32.5,Holes in rock. wood and other shells
+1286,Myidae,Sphenia,gulfensis,Sphenia_gulfensis,31.4,23.2,27.3,8.2,13,0,68,34,0
+1565,Myidae,Sphenia,hatcheri,Sphenia_hatcheri,-38.4,-55,-46.7,16.6,30,36,91,63.5,
+1136,Mydae,Sphenia,luticola,Sphenia_luticola,47.7,32.8,40.25,14.9,20.6,15,155,85,rock and shell
+944,Mactridae,Spisula,williamsi,Spisula_williamsi,19.1,-3.5,7.8,22.6,36,0,60,30,
+716,Spondylidae,Spondylus,crassisquama,Spondylus_crassisquama,28.9,-6.7,11.1,35.6,145,10,90,50,
+717,Spondylidae,Spondylus,gloriosus,Spondylus_gloriosus,19,-0.6,9.2,19.6,150,4,80,42,
+718,Spondylidae,Spondylus,leucacanthus,Spondylus_leucacanthus,28.9,-1.3,13.8,30.2,156,10,90,50,
+719,Spondylidae,Spondylus,limbatus,Spondylus_limbatus,31.4,-3.9,13.75,35.3,249,0,40,20,
+1522,Mactridae,Standella,isthmica,Standella_isthmica,14.3,-12.1,1.1,26.4,60,0,30,,
+1523,Mactridae,Standella,velata,Standella_velata,-8.9,-18.2,-13.55,9.3,119,0,0,,sand and gravel
+23,Tellinidae,Strigilla,chroma,Strigilla_chroma,31.7,-4.1,13.8,35.8,25,0,13,6.5,
+24,Tellinidae,Strigilla,cicercula,Strigilla_cicercula,31,0,15.5,31,12,0,57,28.5,
+25,Tellinidae,Strigilla,dichotoma,Strigilla_dichotoma,30.6,-1.1,14.75,31.7,9,0,0,0,
+26,Tellinidae,Strigilla,disjuncta,Strigilla_disjuncta,13.2,-3.5,4.85,16.7,45,0,15,7.5,Sand
+27,Tellinidae,Strigilla,ervilla,Strigilla_ervilla,19.3,-2.2,8.55,21.5,11,0,24,12,
+28,Tellinidae,Strigilla,interrupta,Strigilla_interrupta,21.6,-2.2,9.7,23.8,8,9,18,13.5,Mud
+29,Tellinidae,Strigilla,serrata,Strigilla_serrata,31.7,-1.1,15.3,32.8,10,0,26,13,
+664,Ostreidae,Striostrea,prismatica,Striostrea_prismatica,24.4,-4.1,10.15,28.5,190,0,,0,
+781,Carditidae,Strophocardia,megastropha,Strophocardia_megastropha,29.6,-1.8,13.9,31.4,51,0,100,50,
+139,Solecurtidae,Tagelus,affinis,Tagelus_affinis,35.4,-5.7,14.85,41.1,80,0,90,45,Mud
+1505,Solecurtidae,Tagelus,dombeii,Tagelus_dombeii,7.9,-45.7,-18.9,53.6,150,0,37,,
+142,Solecurtidae,Tagelus,longisinuatus,Tagelus_longisinuatus,23.2,16,19.6,7.2,62,0,0,0,
+143,Solecurtidae,Tagelus,peruanus,Tagelus_peruanus,23.4,-3.5,9.95,26.9,48,0,4,2,Mangrove estuaries
+144,Solecurtidae,Tagelus,peruvianus,Tagelus_peruvianus,31,-3.5,13.75,34.5,85,0,40,20,
+145,Solecurtidae,Tagelus,politus,Tagelus_politus,31.2,-3.5,13.85,34.7,50,0,70,35,
+1112,Solecurtidae,Tagelus,subteres,Tagelus_subteres,35.4,26.8,31.1,8.6,55,,,,0 in mud
+1543,Veneridae,Tawera,elliptica,Tawera_elliptica,-33.1,-56,-44.55,22.9,35,2,130,66,"sand, mud, gravel, broken shell"
+675,Anomiidae,Tedinia,pernoides,Tedinia_pernoides,38.5,27.9,33.2,10.6,50,0,45,22.5,
+30,Tellinidae,Tellidora,burnetti,Tellidora_burnetti,31.4,-2.2,14.6,33.6,49,0,29,14.5,"Sand, mud and rubble"
+763,Lucinidae,Tellidorella,cristulata,Tellidorella_cristulata,29.9,-6.9,11.5,36.8,6,18,250,134,
+51,Tellinidae,Tellina,amianta,Tellina_amianta,31.7,-2.2,14.75,33.9,15,0,77,38.5,
+1070,Tellinidae,Tellina,bodegensis,Tellina_bodegensis,57.1,24.6,40.85,32.5,60,0,100,50,sand
+46,Tellinidae,Tellina,brevirostris,Tellina_brevirostris,27.9,-3.5,12.2,31.4,19,0,0,0,Mudflats
+1064,Tellinidae,Tellina,cadieni,Tellina_cadieni,35.3,32.7,34,2.6,15,0,305,152.5,
+1065,Tellinidae,Tellina,carpenteri,Tellina_carpenteri,57.1,7.2,32.15,49.9,25,0,823,411.5,
+69,Tellinidae,Tellina,chrysogona,Tellina_chrysogona,-1.5,-1.5,-1.5,0,13,550,550,550,Broken shells
+53,Tellinidae,Tellina,coani,Tellina_coani,31.4,8,19.7,23.4,10,0,30,15,
+47,Tellinidae,Tellina,cristallina,Tellina_cristallina,31.4,-4.1,13.65,35.5,32.5,6,48,27,
+65,Tellinidae,Tellina,cumingii,Tellina_cumingii,31.4,-3.1,14.15,34.5,69,4,73,38.5,Sand
+33,Tellinidae,Tellina,decumbens,Tellina_decumbens,9,9,9,0,48,0,0,0,
+34,Tellinidae,Tellina,eburnea,Tellina_eburnea,27.9,-5.9,11,33.8,61,9,155,82,
+54,Tellinidae,Tellina,felix,Tellina_felix,27.9,-3.7,12.1,31.6,17,0,25,12.5,
+35,Tellinidae,Tellina,hiberna,Tellina_hiberna,31.7,-3.1,14.3,34.8,19,0,55,27.5,
+1071,Tellinidae,Tellina,idea,Tellina_idea,34.4,32.7,33.55,1.7,60,0,100,50,
+36,Tellinidae,Tellina,inaequistriata,Tellina_inaequistriata,31.4,-3.1,14.15,34.5,34,1,119,60,
+61,Tellinidae,Tellina,insculpta,Tellina_insculpta,28.9,-2.2,13.35,31.1,35,6,26,16,
+37,Tellinidae,Tellina,laceridens,Tellina_laceridens,13.5,-4.1,4.7,17.6,83,0,30,15,
+1069,Tellinidae,Tellina,lutae,Tellina_lutae,69,56.5,62.75,12.5,130,0,100,50,
+44,Tellinidae,Tellina,lyra,Tellina_lyra,27.9,-3.5,12.2,31.4,50,21,53,37,
+45,Tellinidae,Tellina,lyrica,Tellina_lyrica,31,-3.6,13.7,34.6,60,15,73,44,Mud
+48,Tellinidae,Tellina,martinicensis,Tellina_martinicensis,31,1,16,30,13,10,90,50,"Sand, mud and rubble"
+55,Tellinidae,Tellina,meropsis,Tellina_meropsis,36.6,-2.2,17.2,38.8,23,0,180,90,Sand
+1067,Tellinidae,Tellina,modesta,Tellina_modesta,59.2,27.7,43.45,31.5,20,0,100,50,fine sandy sediment
+41,Tellinidae,Tellina,nicoyana,Tellina_nicoyana,9.7,-3.5,3.1,13.2,35,55,95,75,Mud
+1068,Tellinidae,Tellina,nuculoides,Tellina_nuculoides,59.2,32.4,45.8,26.8,20,0,75,37.5,coarse sand
+43,Tellinidae,Tellina,ochracea,Tellina_ochracea,27.9,-1.4,13.25,29.3,65,0,80,40,
+32,Tellinidae,Tellina,pacifica,Tellina_pacifica,30.3,-1.3,14.5,31.6,8,7,120,63.5,
+67,Tellinidae,Tellina,princeps,Tellina_princeps,13.2,3.5,8.35,9.7,89,0,,,Sand
+62,Tellinidae,Tellina,pristiphora,Tellina_pristiphora,27.9,-3.5,12.2,31.4,45,22,333,177.5,
+38,Tellinidae,Tellina,prora,Tellina_prora,31,3.7,17.35,27.3,72,0,155,77.5,
+68,Tellinidae,Tellina,purpurea,Tellina_purpurea,24.2,-4.1,10.05,28.3,72,0,0,0,Sand
+49,Tellinidae,Tellina,reclusa,Tellina_reclusa,31.4,6.4,18.9,25,23,0,40,20,
+39,Tellinidae,Tellina,regia,Tellina_regia,31.7,-4.8,13.45,36.5,52,0,24,12,
+31,Tellinidae,Tellina,rickettsi,Tellina_rickettsi,27.9,7.6,17.75,20.3,12,9,60,34.5,
+40,Tellinidae,Tellina,rubescens,Tellina_rubescens,30.3,-3.5,13.4,33.8,47,0,10,5,Mudflats
+42,Tellinidae,Tellina,sadeghianae,Tellina_sadeghianae,9.7,1,5.35,8.7,25,11,17,14,Sandy mud
+50,Tellinidae,Tellina,steinbecki,Tellina_steinbecki,27.9,-0.4,13.75,28.3,26,35,180,107.5,
+56,Tellinidae,Tellina,straminea,Tellina_straminea,31,1,16,30,21,,,,
+57,Tellinidae,Tellina,subreigona,Tellina_subreigona,24.6,8.1,16.35,16.5,25,0,30,15,
+58,Tellinidae,Tellina,tabogensis,Tellina_tabogensis,31.7,-9.5,11.1,41.2,12,27,48,37.5,
+59,Tellinidae,Tellina,tumbezensis,Tellina_tumbezensis,9,-3.5,2.75,12.5,28,0,0,0,Mudflats
+63,Tellinidae,Tellina,varilineata,Tellina_varilineata,22.4,-2.2,10.1,24.6,25,7,13,10,Sand and mud
+64,Tellinidae,Tellina,virgo,Tellina_virgo,31.4,3.5,17.45,27.9,23,0,35,17.5,"Sand, mud and rubble"
+66,Tellinidae,Tellina,zacae,Tellina_zacae,25.8,-4.6,10.6,30.4,44,64,165,114.5,Sand and mud
+70,Tellinidae,Temnoconcha,cognata,Temnoconcha_cognata,29.9,-3.9,13,33.8,66,0,68,34,Mud
+1301,Corbulidae,Tenuicorbula,tenuis,Tenuicorbula_tenuis,28.9,-3.7,12.6,32.6,25,0,73,36.5,Mud and sand
+1163,Teredinidae,Teredo,bartschi,Teredo_bartschi,34.4,-2.2,16.1,36.6,15,,,,floating wood
+1335,Teredinidae,Teredo,furcifera,Teredo_furcifera,-0.9,-2.2,-1.55,1.3,9,0,0,,Wood
+1164,Teredinidae,Teredo,navalis,Teredo_navalis,50,37.7,43.85,12.3,20,,,,floating wood
+1108,Semelidae,Theora,lubrica,Theora_lubrica,37.9,32.7,35.3,5.2,20,,,,"0 zone, mud"
+1179,Thraciidae,Thracia,challisiana,Thracia_challisiana,59.5,29.2,44.35,30.3,60,30,230,130,fine mud
+1177,Thraciidae,Thracia,condoni,Thracia_condoni,59.5,48,53.75,11.5,83,16,81,48.5,mud
+1181,Thraciidae,Thracia,curta,Thracia_curta,48.6,9.4,29,39.2,53,0,48,24,rock
+1182,Thraciidae,Thracia,devexa,Thracia_devexa,72.3,49.9,61.1,22.4,40,7,348,177.5,mud
+1183,Thraciidae,Thracia,myopsis,Thracia_myopsis,48.9,32.6,40.75,16.3,40,50,250,150,sand and mud
+1178,Thraciidae,Thracia,septentrionalis,Thracia_septentrionalis,70.8,55.3,63.05,15.5,28,11,69,40,sand and silt
+1180,Thraciidae,Thracia,trapezoides,Thracia_trapezoides,57.4,28.2,42.8,29.2,65,11,200,105.5,sand and mud
+770,Thyasiridae,Thyasira,flexuosa,Thyasira_flexuosa,71,12.5,41.75,58.5,18,20,3000,1510,
+771,Thyasiridae,Thyasira,methanophila,Thyasira_methanophila,9,-36.4,-13.7,45.4,30,780,1400,1090,
+1460,Thyasiridae,Thyasira,orecta,Thyasira_orecta,48.3,-13.3,,,9,2110,2520,2315,
+1461,Thyasiridae,Thyasira,patagonica,Thyasira_patagonica,-42.3,-55,-48.65,12.7,5,16,145,80.5,
+1462,Thyasiridae,Thyasira,tomeana,Thyasira_tomeana,-11,-36.5,-23.75,25.5,37,17,934,475.5,
+266,Tindariidae,Tindaria,compressa,Tindaria_compressa,48.3,7.1,27.7,41.2,12,950,2850,1900,
+267,Tindariidae,Tindaria,kennerlyi,Tindaria_kennerlyi,50.9,32.7,41.8,18.2,10,457,4130,2293.5,
+525,Bathyspinulidae,Tindariopsis,grasslei,Tindariopsis_grasslei,27.1,9,18.05,18.1,26,1400,2012,1706,
+1258,Veneridae,Tivela,argentina,Tivela_argentina,23.2,-3.5,9.85,26.7,68,0,16,8,0
+1259,Veneridae,Tivela,byronensis,Tivela_byronensis,31.3,-4.2,13.55,35.5,63,0,73,36.5,0
+1260,Veneridae,Tivela,delessertii,Tivela_delessertii,27,8.5,17.75,18.5,41,0,,,0
+1263,Veneridae,Tivela,lessonii,Tivela_lessonii,22.4,-5.1,8.65,27.5,70,0,,,0
+1261,Veneridae,Tivela,lineata,Tivela_lineata,28,0.5,14.25,27.5,31,0,,,0
+1264,Veneridae,Tivela,planulata,Tivela_planulata,24.6,-5.1,9.75,29.7,65,0,,,0
+1046,Veneridae,Tivela,stultorum,Tivela_stultorum,37.9,24.6,31.25,13.3,176,0,30,15,sandy beaches
+807,Cardiidae,Trachycardium,belcheri,Trachycardium_belcheri,27.9,-3.6,12.15,31.5,54,14,200,107,
+805,Cardiidae,Trachycardium,consors,Trachycardium_consors,31.5,-2.2,14.65,33.7,84,0,90,45,
+806,Cardiidae,Trachycardium,procerum,Trachycardium_procerum,31.3,-14.2,8.55,45.5,117,0,26,13,
+1033,Cardiidae,Trachycardium,quadragenarium,Trachycardium_quadragenarium,36.6,27,31.8,9.6,150,0,50,25,0 zone
+1246,Veneridae,Transennella,caryonautes,Transennella_caryonautes,27.9,15.8,21.85,12.1,46,30,,,
+1247,Veneridae,Transennella,galapagana,Transennella_galapagana,-0.5,-0.5,-0.5,0,6,0,,,
+1248,Veneridae,Transennella,modesta,Transennella_modesta,27.9,27,27.45,0.9,35,0,90,45,0
+1549,Veneridae,Transennella,pannosa,Transennella_pannosa,-5.6,-33.1,-19.35,27.5,38,8,10,9,
+1249,Veneridae,Transennella,peulla,Transennella_peulla,29.2,6.4,17.8,22.8,28,6,113,59.5,
+1250,Veneridae,Transennella,vulnerata,Transennella_vulnerata,27.9,-5.6,11.15,33.5,48,0,35,17.5,0
+1126,Mactridae,Tresus,capax,Tresus_capax,59.5,35.1,47.3,24.4,280,0,20,10,mud and sand
+946,Mactridae,Tresus,nuttallii,Tresus_nuttallii,57,24.6,40.8,32.4,190,0,40,20,
+814,Cardiidae,Trigoniocardia,granifera,Trigoniocardia_granifera,31.5,-3.5,14,35,18,0,66,33,
+1595,Verticordiidae,Trigonulina,novemcostata,Trigonulina_novemcostata,36.6,-14.3,11.15,50.9,8,11,185,98,mud
+1212,Verticordiidae,Trigonulina,pacifica,Trigonulina_pacifica,36.6,-12.1,12.25,48.7,8,15,170,92.5,mud
+880,Galeommatidae,Tryphomyax,lepidoformis,Tryphomyax_lepidoformis,31.3,8.7,20,22.6,4,0,0,,
+881,Galeommatidae,Tryphomyax,mexicanus,Tryphomyax_mexicanus,31.4,19.2,25.3,12.2,0,30,,15,
+631,Glycymerididae,Tucentona,bicolor,Tucentona_bicolor,29.8,19.6,24.7,10.2,28,20,45,32.5,
+633,Glycymerididae,Tucentona,multicostata,Tucentona_multicostata,31.4,-3.1,14.15,34.5,46,8,90,49,
+634,Glycymerididae,Tucentona,strigilata,Tucentona_strigilata,27.9,-3.7,12.1,31.6,49,10,180,95,
+945,Mactridae,Tumbeziconcha,thraciodes,Tumbeziconcha_thraciodes,13.3,-3.5,4.9,16.8,45,0,,0,
+1063,Turtoniidae,Turtonia,minuta,Turtonia_minuta,60,51.4,55.7,8.6,3,,,,0 zone
+466,Ostreidae,Undulostrea,megodon,Undulostrea_megodon,27.9,-14.3,6.8,42.2,103,0,110,,
+1336,Teredinidae,Uperotus,panamensis,Uperotus_panamensis,7.9,7.9,7.9,0,3,94,94,94,
+1302,Corbulidae,Varicorbula,grovesi,Varicorbula_grovesi,28.7,28.7,28.7,0,11,732,732,732,
+1303,Corbulidae,Varicorbula,obesa,Varicorbula_obesa,28.2,6.6,17.4,21.6,13,14,205,109.5,Mud
+1057,Veneridae,Venerupis,philippinarum,Venerupis_philippinarum,54,36.8,45.4,17.2,70,,,,0 zone
+1018,Vesicomyidae,Vesicomya,diagonalis,Vesicomya_diagonalis,44.7,9.7,27.2,35,250,2025,2600,2312.5,
+1013,Vesicomyidae,Vesicomya,elogata,Vesicomya_elogata,34.4,32.7,33.55,1.7,50,500,510,505,
+1014,Vesicomyidae,Vesicomya,extenta,Vesicomya_extenta,36.2,9.7,22.95,26.5,246,3000,3600,3300,
+915,Vesicomyidae,Vesicomya,galathea,Vesicomya_galathea,50.9,5.1,28,45.8,7,1760,4000,2880,
+1015,Vesicomyidae,Vesicomya,gigas,Vesicomya_gigas,48.4,27.2,37.8,21.2,125,550,2610,1580,
+1011,Vesicomyidae,Vesicomya,lepta,Vesicomya_lepta,45.5,27.2,36.35,18.3,65,850,1920,1385,
+916,Vesicomyidae,Vesicomya,pacifica,Vesicomya_pacifica,44.9,-33.2,5.85,78.1,9,1200,6200,3700,
+1017,Vesicomyidae,Vesicomya,packardana,Vesicomya_packardana,36.8,34.5,35.65,2.3,80,,600,,Cold seeps
+1012,Vesicomyidae,Vesicomya,stearnsii,Vesicomya_stearnsii,48.4,6,27.2,42.4,46,370,3070,1720,
+306,Mytilidae,Vilasina,vernicosa,Vilasina_vernicosa,56.5,54.8,55.65,1.7,25,10,80,45,
+1463,Galeommatidae,Waldo,digitatus,Waldo_digitatus,-41.6,-47.7,-44.65,6.1,4,0,200,,heart urchins
+1321,Xylophagidae,Xylophaga,aurita,Xylophaga_aurita,7.3,7.3,7.3,0,5,915,915,915,
+1322,Xylophagidae,Xylophaga,concava,Xylophaga_concava,7.4,5.8,6.6,1.6,9,915,3670,2292.5,
+1323,Xylophagidae,Xylophaga,duplicata,Xylophaga_duplicata,15.1,7.3,11.2,7.8,4,109,915,512,
+1325,Xylophagidae,Xylophaga,mexicana,Xylophaga_mexicana,33.8,15.1,24.45,18.7,4,34,258,146,
+1326,Xylophagidae,Xylophaga,multichela,Xylophaga_multichela,13.8,6.6,10.2,7.2,3,106,119,112.5,
+1327,Xylophagidae,Xylophaga,obtusata,Xylophaga_obtusata,7.3,7.3,7.3,0,10,915,915,915,
+1328,Xylophagidae,Xylophaga,panamensis,Xylophaga_panamensis,7.4,7.4,7.4,0,3,915,975,945,
+1329,Xylophagidae,Xylophaga,turnerae,Xylophaga_turnerae,7.3,7.3,7.3,0,10,915,915,915,
+1161,Pholadidae,Xylophaga,washingtona,Xylophaga_washingtona,64,33.2,48.6,30.8,6,75,2300,1187.5,waterlogged wood
+249,Yoldiidae,Yoldia (Cnesterium),seminuda,Yoldia (Cnesterium)_seminuda,71,32.7,51.85,38.3,40,15,375,195,
+250,Yoldiidae,Yoldia (Kalayoldia),cooperii,Yoldia (Kalayoldia)_cooperii,40.4,31.8,36.1,8.6,73,5,40,22.5,
+247,Yoldiidae,Yoldia (Yoldia),hyperborea,Yoldia (Yoldia)_hyperborea,71,32.7,51.85,38.3,50,15,360,187.5,
+248,Yoldiidae,Yoldia (Yoldia),myalis,Yoldia (Yoldia)_myalis,71,48.7,59.85,22.3,30,20,165,92.5,
+540,Yoldiidae,Yoldia,martyria,Yoldia_martyria,50.2,28.3,39.25,21.9,27,150,330,240,
+541,Yoldiidae,Yoldiella,capsa,Yoldiella_capsa,45.5,9.5,27.5,36,5,1150,1800,1475,
+542,Yoldiidae,Yoldiella,cf. orcia,Yoldiella_cf. orcia,55.1,9.5,32.3,45.6,8,1150,1500,1325,
+259,Yoldiidae,Yoldiella,derjugini,Yoldiella_derjugini,58,58,58,0,4,520,800,660,
+260,Yoldiidae,Yoldiella,frigida,Yoldiella_frigida,71,71,71,0,4,110,500,305,Panarctic and circumpolar
+261,Yoldiidae,Yoldiella,nana,Yoldiella_nana,71,37.7,54.35,33.3,5,40,991,515.5,Panarctic and circumpolar
+1150,Pholadidae,Zirfaea,pilsbryi,Zirfaea_pilsbryi,69.7,24.6,47.15,45.1,145,0,125,62.5,soft clay or mud
+475,Pectinidae,Zygochlamys,patagonica,Zygochlamys_patagonica,-35,-55,-45,20,90,1,270,135.5,various bottom types
+476,Pectinidae,Zygochlamys,phalara,Zygochlamys_phalara,-33.7,-33.7,-33.7,0,39,0,200,,
