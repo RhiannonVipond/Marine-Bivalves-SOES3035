@@ -3,7 +3,7 @@ Personal R code for processing and visualisation of two datasets (distribution a
 
 | Code file | Contents |
 |----------:|----------|
-| code_map_rf | map of the Americas, richnes gradient, random forest modelling |
+| code_map_rf | map of the Americas, richness gradient, random forest modelling |
 | code_testing | assumption testing, statistical tests, visualisation |
 | code_extra | environmental data analysis, correlation, visualisation |
 
