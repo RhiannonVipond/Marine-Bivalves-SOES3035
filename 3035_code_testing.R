@@ -402,7 +402,6 @@ dists <- by_fam %>%
   group_by(family) %>%
   summarise(max_lat = max(max_lat),
             min_lat = min(min_lat), 
-            range = max_lat - min_lat,
             AVml = mean(mid_lat),
             mid_lat = (max_lat + min_lat)/2) %>%
   mutate(region = case_when(-5.5 < mid_lat & mid_lat < 29.5 ~ "TEP",
@@ -410,169 +409,93 @@ dists <- by_fam %>%
                             mid_lat < -5.5 ~ "SEP"))
 
 
-# plot mean ranges
-plot1 <- ggplot(data = mean[1:45, ], aes(x = family)) +
-  geom_errorbar(
-    aes(ymin = mean_mid - ci, ymax = mean_mid + ci)) +
-  geom_point(
-    aes(y = mean_mid, colour = mean_depth, size = mean_lat),
-    alpha = 0.8) +
-  geom_hline(
-    yintercept = -5.5, 
-    linetype = 2) +
-  geom_hline(
-    yintercept = 29.5, 
-    linetype = 2) +
-  scale_y_continuous(
-    breaks = seq(-60, 80, 20),
-    limits = c(-60, 80)) +
-  theme_bw() +
-  theme(
-    axis.text = element_text(colour = "black", size = 11),
-    axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.3),
-    axis.title = element_text(size = 14),
-    axis.title.x = element_blank(),
-    legend.justification = c(0,0.8)) +
-  scale_colour_gradientn(colors = my_colors) +
-  scale_radius(range = c(2, 7),
-               limits = c(0, 50)) +
-  geom_text(x = 2, y = -57, label = "SEP") +
-  geom_text(x = 2, y = 3, label = "TEP") +
-  geom_text(x = 2, y = 38, label = "NEP") +
-  labs(
-    x = "Family",
-    y = "Latitude (°N)",
-    colour = "Depth Range (m)",
-    size = "Latitudinal Range (°)"
-  )
-
-#take legends
-p1.leg  <- as_ggplot(get_legend(plot1))
-plot1 <- plot1 + theme(legend.position = "none")
-
-
-plot2 <- ggplot(data = mean[46:90, ], aes(x = family)) +
-  geom_errorbar(
-    aes(ymin = mean_mid - ci, ymax = mean_mid + ci)) +
-  geom_point(
-    aes(y = mean_mid, colour = mean_depth, size = mean_lat),
-    alpha = 0.8) +
-  geom_hline(
-    yintercept = -5.5, 
-    linetype = 2) +
-  geom_hline(
-    yintercept = 29.5, 
-    linetype = 2) +
-  scale_y_continuous(
-    breaks = seq(-60, 80, 20),
-    limits = c(-60, 80)) +
-  theme_bw() +
-  theme(
-    axis.text = element_text(colour = "black", size = 11),
-    axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.3),
-    axis.title = element_text(size = 14),
-    legend.position = "blank"
-    ) +
-  scale_colour_gradientn(colors = my_colors) +
-  scale_radius(range = c(2, 7),
-               limits = c(0, 50)
-               ) +
-  geom_text(x = 2, y = -57, label = "SEP") +
-  geom_text(x = 2, y = 3, label = "TEP") +
-  geom_text(x = 2, y = 38, label = "NEP") +
-  labs(
-    x = "Family",
-    y = "Latitude (°N)",
-    colour = "Depth Range (m)",
-    size = "Latitudinal Range (°)"
-  )
-
-#take legends
-p2.leg  <- as_ggplot(get_legend(plot2))
-plot2 <- plot2 + theme(legend.position = "none")
-
-
-grid1 <- plot_grid(plot1, plot2, 
-          nrow = 2, 
-          align = "v",
-          labels = c("A", "B"))
-
-plot_grid(grid1, NULL, p1.leg, 
-          ncol = 3, 
-          rel_widths = c(1, 0.01, 0.15))
-
+df_full <- merge(mean, dists, by = "family")
 
 
 # plot graph of ranges and ecoregions
-plot3 <- ggplot(dists[1:45, ], aes(x = family)) +
-  geom_linerange(
-    aes(ymin = min_lat, 
-        ymax = max_lat, 
-        colour = region),
-    linewidth = 1) +
-  scale_y_continuous(
-    breaks = seq(-60, 80, 20),
-    limits = c(-60, 80)) +
-  theme_bw() +
-  theme(
-    axis.text = element_text(colour = "black", size = 20),
-    axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.3),
-    axis.title = element_text(size = 22),
-    axis.title.x = element_blank(),
-    legend.title = element_text(size = 20),
-    legend.text = element_text(size = 18),
-    legend.justification = c(1, 0),
-    legend.position = "bottom"
+plot1 <- ggplot(df_full[1:45, ], aes(x = family)) +
+  geom_errorbar(
+    aes(ymin = mean_mid - ci, ymax = mean_mid + ci)
+  ) +
+  geom_linerange(linewidth = 1,
+    aes(ymax = max_lat,
+        ymin = min_lat,
+        colour = region)
     ) +
-  scale_colour_manual(values = c("royalblue1", "#FA8072", "#a15eb8")) +
-  labs(
-    x = "Family",
-    y = "Latitude (°N)",
-    colour = "Ecoregion"
-  )
-
-
-#take legends
-p3.leg  <- as_ggplot(get_legend(plot3))
-plot3 <- plot3 + theme(legend.position = "none")
-
-
-plot4 <- ggplot(dists[46:90, ], aes(x = family)) +
-  geom_linerange(
-    aes(ymin = min_lat, 
-        ymax = max_lat, 
-        colour = region),
-    linewidth = 1) +
+  geom_point(
+    alpha = 0.5,
+    aes(y = AVml,
+        size = mean_depth)
+             ) +
   scale_y_continuous(
     breaks = seq(-60, 80, 20),
     limits = c(-60, 80)) +
   theme_bw() +
   theme(
-    axis.text = element_text(colour = "black", size = 20),
+    axis.text = element_text(colour = "black", size = 16),
     axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.3),
-    axis.title = element_text(size = 22),
-    axis.title.x = element_text(size = 22, vjust = -0.5),
-    legend.position = "blank"
+    axis.title = element_text(size = 20),
+    axis.title.x = element_blank(),
+    legend.title = element_text(size = 18),
+    legend.text = element_text(size = 16),
+    legend.justification = c(1, 0),
+    legend.position = "top"
   ) +
   scale_colour_manual(values = c("royalblue1", "#FA8072", "#a15eb8")) +
   labs(
     x = "Family",
     y = "Latitude (°N)",
-    colour = "Ecoregion"
+    colour = "Ecoregion",
+    size = "Mean Depth (m)"
   )
 
 
-grid2 <- plot_grid(plot3, plot4, 
-                   nrow = 2, 
-                   align = "v")
+plot2 <- ggplot(df_full[46:90, ], aes(x = family)) +
+  geom_errorbar(
+    aes(ymin = mean_mid - ci, ymax = mean_mid + ci)
+  ) +
+  geom_linerange(linewidth = 1,
+                 aes(ymax = max_lat,
+                     ymin = min_lat,
+                     colour = region)
+  ) +
+  geom_point(
+    alpha = 0.5,
+    aes(y = AVml,
+        size = mean_depth)
+  ) +
+  scale_radius(range = c(2, 7),
+               limits = c(0, 2000)
+  ) +
+  scale_y_continuous(
+    breaks = seq(-60, 80, 20),
+    limits = c(-60, 80)) +
+  theme_bw() +
+  theme(
+    axis.text = element_text(colour = "black", size = 16),
+    axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.3),
+    axis.title = element_text(size = 20),
+    legend.title = element_text(size = 18),
+    legend.text = element_text(size = 16),
+    legend.justification = c(1, 0),
+    legend.position = "none"
+  ) +
+  scale_colour_manual(values = c("royalblue1", "#FA8072", "#a15eb8")) +
+  labs(
+    x = "Family",
+    y = "Latitude (°N)",
+    colour = "Ecoregion",
+    size = "Mean Depth (m)"
+  )
 
-plot_grid(p3.leg, grid2,
+# plot then together
+plot_grid(plot1, plot2, 
           nrow = 2, 
-          rel_heights = c(0.15, 1))
+          align = "v")
 
 
 
-# ecoregion checks
+# ecoregion checks: latitude range
 ecoplot1 <- ggplot(dists, aes(x = region, y = range)) + 
   stat_boxplot(geom ='errorbar') +
   geom_boxplot() +
@@ -592,7 +515,7 @@ ecoplot1 <- ggplot(dists, aes(x = region, y = range)) +
   )
 
 
-# ecoregion checks
+# ecoregion checks: average mid latitude
 ecoplot2 <- ggplot(dists, aes(x = region, y = AVml)) + 
   stat_boxplot(geom ='errorbar') +
   geom_boxplot() +
