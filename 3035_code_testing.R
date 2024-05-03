@@ -276,32 +276,6 @@ kruskal.test(depth_range ~ family, data = na.omit(base)) # significant, p = <2.2
 kruskal.test(lat_range ~ family, data = na.omit(base)) # significant, p = 7.147e-05
 kruskal.test(mid_lat ~ family, data = na.omit(base)) # significant, p = 3.587e-14
 
-
-# pairwise tests to identify powerful data points
-sink("depth_pairwise.txt")
-depth_pair <- pairwise.wilcox.test(by_fam$depth_range, by_fam$family, 
-                     p.adjust.method = "BH")
-depth_pair
-sink()
-write.csv(depth_pair$p.value, file = "depth_pairwise.csv")
-
-
-sink("lat_pairwise.txt")
-lat_pair <- pairwise.wilcox.test(by_fam$lat_range, by_fam$family,
-                                   p.adjust.method = "BH")
-lat_pair
-sink()
-write.csv(lat_pair$p.value, file = "lat_pairwise.csv")
-
-
-sink("mid_pairwise.txt")
-mid_pair <- pairwise.wilcox.test(by_fam$mids, by_fam$family,
-                                   p.adjust.method = "BH")
-mid_pair
-sink()
-write.csv(mid_pair$p.value, file = "mid_pairwise.csv")
-
-
 # is there an interaction between latitude range and depth range
 base_nona <- na.omit(base)
 base_nona <- base_nona[, c(2, 9, 17, 19)]
@@ -426,7 +400,7 @@ plot1 <- ggplot(df_full[1:45, ], aes(x = family)) +
     alpha = 0.5,
     aes(y = AVml,
         size = mean_depth)
-             ) +
+    ) +
   scale_y_continuous(
     breaks = seq(-60, 80, 20),
     limits = c(-60, 80)) +
@@ -532,11 +506,9 @@ ecoplot2 <- ggplot(dists, aes(x = region, y = AVml)) +
     y = "Average Midpoint (°)"
   )
 
-
+# plot boxplots together
 plot_grid(ecoplot1, ecoplot2,
           nrow = 2, 
           align = "v",
           labels = c("A", "B"))
-
-
 
