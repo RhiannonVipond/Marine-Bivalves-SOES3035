@@ -63,7 +63,7 @@ map1 <- ggplot(data = w, aes(x = long, y = lat, group = group)) +
     breaks = seq(-180, -60, 30)
     ) +   # x-axis scale
   labs(
-    x = "Longitude (°N)",
+    x = "Longitude (°E)",
     y = "Latitude (°N)"
     ) +
   coord_fixed(
