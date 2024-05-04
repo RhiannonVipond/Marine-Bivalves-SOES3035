@@ -5,11 +5,11 @@ Personal R code for the processing and visualisation of two datasets:
 
 | Code File | Contents | Datasets Used |
 |----------|----------|----------|
-| code_map_rf | map of the Americas, richness gradient, random forest modelling | edited_lat_matrix, env_richness |
-| code_testing | assumption testing, statistical tests, visualisation | base_data |
-| code_extra | environmental data analysis, correlation, visualisation | env_richness |
+| code_map_rf | map of the Americas, richness gradient, random forest modelling | data_lat_matrix, data_enviro_edited |
+| code_testing | assumption testing, statistical tests, visualisation | data_distro_edited |
+| code_enviro | environmental data analysis, correlation, visualisation | data_enviro_edited |
+
+Raw data is included under the prefix raw_.
 
 Thank you Georgia Britt, for working with me in the initial stages of creating the random forest model and richness gradient.
 Thank you Sophie Andow, Georgia Beesley, and Lana Stephenson for creating and curating the edited presence-absence matrix.
-
-<!-- Add copy of paper -->
